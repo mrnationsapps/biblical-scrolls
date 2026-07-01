@@ -86,7 +86,7 @@ body.night .enote{background:#2a2410;border-color:#5a4a18;color:#e8d9a0}
 .pymk-n{font-weight:700;font-size:13px;cursor:pointer;line-height:1.2}
 .pymk-w{font-size:11px;color:var(--mut);min-height:14px;line-height:1.2}
 .addbtn{background:var(--blue);color:#fff;border:none;border-radius:6px;padding:7px 10px;font-weight:700;cursor:pointer;font-size:13px;width:100%}
-.bell{position:relative;cursor:pointer;font-size:17px;padding:5px 9px;border:1px solid var(--line);border-radius:20px;background:var(--bg);user-select:none}
+.bell{position:relative;cursor:pointer;font-size:17px;padding:5px 9px;border:1px solid var(--line);border-radius:20px;background:var(--bg);user-select:none;margin-left:auto;flex:none}
 .ncount{position:absolute;top:-5px;right:-5px;background:#e41e3f;color:#fff;border-radius:10px;font-size:10px;font-weight:700;padding:0 5px;min-width:17px;text-align:center;display:none}
 .ncount.show{display:block}
 .npanel{position:fixed;top:54px;right:10px;width:340px;max-width:92vw;background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 8px 28px rgba(0,0,0,.22);z-index:30;display:none;max-height:74vh;overflow-y:auto}
@@ -115,12 +115,7 @@ body.night .enote{background:#2a2410;border-color:#5a4a18;color:#e8d9a0}
 <div class="top"><div class="logo" onclick="goFeed()">📜 Biblical Scrolls</div>
   <div class="hdr"><div class="htext"><div class="era" id="era">…</div><div class="sub" id="sub"></div></div>
     <div class="alive" id="alive" onclick="togglePause()" title="the world is alive — tap to pause"><span class="dot">●</span> live</div></div>
-  <div class="chip" id="clock">…</div>
-  <div class="bell" id="bell" onclick="toggleNotifs()">🔔<span class="ncount" id="ncount"></span></div>
-  <div class="tog" id="speedtog" onclick="cycleSpeed()" title="story-clock speed (testing)">⏱ fast</div>
-  <div class="tog" id="tog" onclick="toggleEng()">engine view</div>
-  <div class="tog tocbtn" id="tocbtn" onclick="toggleTOC()" title="debug: jump the story-clock to a section">☰ contents</div>
-  <div class="tog danger" id="reset" onclick="resetAll()" title="testing only: wipe everything and start over">↺ reset</div></div>
+  <div class="bell" id="bell" onclick="toggleNotifs()">🔔<span class="ncount" id="ncount"></span></div></div>
 <div class="npanel" id="npanel"></div>
 <div class="toc" id="tocpanel"></div>
 <div class="wrap" id="wrap"></div>
@@ -307,9 +302,6 @@ function renderFeed(){const w=document.getElementById('wrap');
   const _cb=currentBeat();const _bm=(DATA.beats||[]).find(x=>x.beat===_cb)||{};   // "where in the Bible am I" — updates as the story moves
   document.getElementById('era').textContent=_bm.title||DATA.era_header||'Genesis';
   document.getElementById('sub').textContent=_bm.ref||'';
-  const h=new Date().getHours();const tod=h<5?'night':h<11?'morning':h<14?'midday':h<18?'afternoon':h<21?'evening':'night';
-  const cl=document.getElementById('clock');cl.style.display='';
-  cl.textContent={night:'🌙 night, the watches',morning:'🌅 morning, the third hour',midday:'🌞 midday, the sixth hour',afternoon:'☁️ afternoon, the ninth hour',evening:'🌆 evening, the cool of the day'}[tod];
   let html='';
   html+=pymkCard();
   const vis=feedVisible();let maxday=0;vis.forEach(p=>{if(p.release_day>maxday)maxday=p.release_day;});
@@ -324,7 +316,6 @@ function renderFeed(){const w=document.getElementById('wrap');
 function renderProfile(){const w=document.getElementById('wrap');const P=PROFILE,a=P.char;
   const conn=isConnected(a),pend=(a.type!=='outlet'&&charStatus(a.id)==='pending');
   document.getElementById('era').textContent=a.name;document.getElementById('sub').textContent=a.type==='outlet'?'Page':'Profile';
-  document.getElementById('clock').style.display='none';
   const cov=`linear-gradient(120deg,hsl(${hue(a.name)},45%,46%),hsl(${(hue(a.name)+45)%360},45%,34%))`;
   const place=a.city||a.hometown||'';
   const sub=a.type==='outlet'?a.tagline:[a.work,place,a.faction].filter(Boolean).join(' · ');
@@ -360,7 +351,7 @@ function render(){const h=new Date().getHours();
   if(anchorId){const el=document.getElementById(anchorId);if(el){const diff=el.getBoundingClientRect().top-anchorTop;if(diff)window.scrollBy(0,diff);}}}
 function profile(id){if(!id||id==='SILENCE')return;
   fetch('api/profile/'+encodeURIComponent(id)+'.json').then(r=>r.json()).then(d=>{d.posts=(d.posts||[]).filter(function(p){return p.release_day===undefined||p.release_day<=storyDay();});PROFILE=d;LOOKUP[d.char.id]=d.char;for(const f of (d.friends||[]))LOOKUP[f.id]=f;VIEW='profile';window.scrollTo(0,0);render();});}
-function goFeed(){VIEW='feed';PROFILE=null;document.getElementById('clock').style.display='';window.scrollTo(0,0);render();}
+function goFeed(){VIEW='feed';PROFILE=null;window.scrollTo(0,0);render();}
 function togglePk(id){const e=document.getElementById('pk-'+id);document.querySelectorAll('.picker').forEach(x=>{if(x!==e)x.classList.remove('show')});e.classList.toggle('show');}
 function react(id,k){USERR[id]=(USERR[id]===k?undefined:k);if(!USERR[id])delete USERR[id];localStorage.setItem('bf_react',JSON.stringify(USERR));render();}
 function clike(id){CLIKES[id]=!CLIKES[id];if(!CLIKES[id])delete CLIKES[id];localStorage.setItem('bf_clike',JSON.stringify(CLIKES));render();}
@@ -373,7 +364,7 @@ function friend(id){
 }
 function expandC(id){EXP[id]=true;render();}
 function toggleC(id){CCOLL[id]=!CCOLL[id];render();}   // "N comments" expands/contracts the thread
-function toggleEng(){ENG=!ENG;document.getElementById('tog').classList.toggle('on',ENG);if(!ENG)document.getElementById('tocpanel').classList.remove('show');render();}
+function toggleEng(){ENG=!ENG;const t=document.getElementById('tog');if(t)t.classList.toggle('on',ENG);const tp=document.getElementById('tocpanel');if(tp&&!ENG)tp.classList.remove('show');render();}
 // ---- DEBUG TABLE OF CONTENTS: list the beats that have content and jump the story-clock to any of them ----
 function toggleTOC(){const p=document.getElementById('tocpanel');const open=p.classList.toggle('show');if(open)renderTOC();}
 function renderTOC(){const p=document.getElementById('tocpanel');const cb=currentBeat();
