@@ -216,14 +216,16 @@ body.night{--bg:#0b1020;--card:#141a2e;--ink:#e7e9ee;--mut:#9aa3b2;--line:#2b355
 *{box-sizing:border-box;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
 body{margin:0;background:var(--bg);color:var(--ink);transition:.4s}
 .top{position:sticky;top:0;z-index:9;background:var(--card);border-bottom:1px solid var(--line);
-  padding:10px 16px;display:flex;align-items:center;gap:12px;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+  padding:8px 16px;display:flex;flex-direction:column;gap:3px;box-shadow:0 1px 4px rgba(0,0,0,.06);transition:transform .25s ease}
+.top.hidden{transform:translateY(-105%)}
+.toprow{display:flex;align-items:center;gap:12px}
 .logo{font-size:20px;font-weight:800;color:var(--blue);cursor:pointer}
-.hdr{flex:1;display:flex;align-items:center;gap:10px}.htext{min-width:0}.hdr .era{font-weight:700;font-size:14px}.hdr .sub{font-size:12px;color:var(--mut)}
+.hdr{display:flex;align-items:center;gap:10px}.htext{min-width:0}.hdr .era{font-weight:700;font-size:14px}.hdr .sub{font-size:12px;color:var(--mut)}
 .chip{font-size:12px;background:var(--bg);border:1px solid var(--line);border-radius:20px;padding:5px 11px;white-space:nowrap}
 .tog{font-size:12px;color:var(--mut);cursor:pointer;user-select:none;border:1px solid var(--line);border-radius:20px;padding:5px 10px}
 .tog.on{color:var(--blue);border-color:var(--blue)}
 .tog.danger{color:#e41e3f;border-color:#e8a0ad}
-.alive{font-size:12px;font-weight:600;color:#2fae5f;cursor:pointer;user-select:none;white-space:nowrap}
+.alive{font-size:12px;font-weight:600;color:#2fae5f;cursor:pointer;user-select:none;white-space:nowrap;margin-left:auto}
 .alive .dot{display:inline-block;animation:pulse 2s infinite}
 .alive.paused{color:var(--mut)}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.2}}
@@ -297,10 +299,10 @@ body.night .enote{background:#2a2410;border-color:#5a4a18;color:#e8d9a0}
 .pymk-n{font-weight:700;font-size:13px;cursor:pointer;line-height:1.2}
 .pymk-w{font-size:11px;color:var(--mut);min-height:14px;line-height:1.2}
 .addbtn{background:var(--blue);color:#fff;border:none;border-radius:6px;padding:7px 10px;font-weight:700;cursor:pointer;font-size:13px;width:100%}
-.bell{position:relative;cursor:pointer;font-size:17px;padding:5px 9px;border:1px solid var(--line);border-radius:20px;background:var(--bg);user-select:none;margin-left:auto;flex:none}
+.bell{position:relative;cursor:pointer;font-size:17px;padding:5px 9px;border:1px solid var(--line);border-radius:20px;background:var(--bg);user-select:none;flex:none}
 .ncount{position:absolute;top:-5px;right:-5px;background:#e41e3f;color:#fff;border-radius:10px;font-size:10px;font-weight:700;padding:0 5px;min-width:17px;text-align:center;display:none}
 .ncount.show{display:block}
-.npanel{position:fixed;top:54px;right:10px;width:340px;max-width:92vw;background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 8px 28px rgba(0,0,0,.22);z-index:30;display:none;max-height:74vh;overflow-y:auto}
+.npanel{position:fixed;top:72px;right:10px;width:340px;max-width:92vw;background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 8px 28px rgba(0,0,0,.22);z-index:30;display:none;max-height:74vh;overflow-y:auto}
 .npanel.show{display:block}
 .npanel-h{font-weight:800;font-size:17px;padding:13px 14px 8px}
 .notif{display:flex;gap:10px;padding:10px 14px;cursor:pointer;align-items:flex-start}
@@ -323,10 +325,11 @@ body.night .enote{background:#2a2410;border-color:#5a4a18;color:#e8d9a0}
 .toc-n{font-size:13.5px;font-weight:700}.toc-r{font-size:11.5px;color:var(--mut)}
 .toc-ct{font-size:11px;color:var(--mut);white-space:nowrap}
 </style></head><body>
-<div class="top"><div class="logo" onclick="goFeed()">📜 Biblical Scrolls</div>
-  <div class="hdr"><div class="htext"><div class="era" id="era">…</div><div class="sub" id="sub"></div></div>
-    <div class="alive" id="alive" onclick="togglePause()" title="the world is alive — tap to pause"><span class="dot">●</span> live</div></div>
-  <div class="bell" id="bell" onclick="toggleNotifs()">🔔<span class="ncount" id="ncount"></span></div></div>
+<div class="top">
+  <div class="toprow"><div class="logo" onclick="goFeed()">📜 Biblical Scrolls</div>
+    <div class="alive" id="alive" onclick="togglePause()" title="the world is alive — tap to pause"><span class="dot">●</span> live</div>
+    <div class="bell" id="bell" onclick="toggleNotifs()">🔔<span class="ncount" id="ncount"></span></div></div>
+  <div class="hdr"><div class="htext"><div class="era" id="era">…</div><div class="sub" id="sub"></div></div></div></div>
 <div class="npanel" id="npanel"></div>
 <div class="toc" id="tocpanel"></div>
 <div class="wrap" id="wrap"></div>
@@ -553,13 +556,13 @@ function render(){const h=new Date().getHours();
   // (measure a stable reference card's viewport offset before re-render, restore it after — robust to any height change.)
   let anchorId=null, anchorTop=0;
   if(VIEW==='feed'&&window.scrollY>50){
-    for(const c of document.querySelectorAll('#wrap .card')){if(!c.id)continue;const r=c.getBoundingClientRect();if(r.bottom>70){anchorId=c.id;anchorTop=r.top;break;}}}
+    for(const c of document.querySelectorAll('#wrap .card')){if(!c.id)continue;const r=c.getBoundingClientRect();if(r.bottom>90){anchorId=c.id;anchorTop=r.top;break;}}}
   document.body.classList.toggle('night',h<5||h>=21);document.body.classList.toggle('engview',ENG);
   const st=document.getElementById('speedtog');if(st)st.textContent='⏱ '+(SPEED_LABEL[SPEED]||SPEED);
   updateAlive();
   syncNotifs();
   if(VIEW==='profile'&&PROFILE)renderProfile();else renderFeed();
-  if(anchorId){const el=document.getElementById(anchorId);if(el){const diff=el.getBoundingClientRect().top-anchorTop;if(diff)window.scrollBy(0,diff);}}}
+  if(anchorId){const el=document.getElementById(anchorId);if(el){const diff=el.getBoundingClientRect().top-anchorTop;if(diff){window.__progScroll=Date.now();window.scrollBy(0,diff);}}}}
 function profile(id){if(!id||id==='SILENCE')return;
   fetch('/api/profile?id='+encodeURIComponent(id)+'&day='+storyDay()).then(r=>r.json()).then(d=>{PROFILE=d;LOOKUP[d.char.id]=d.char;for(const f of (d.friends||[]))LOOKUP[f.id]=f;VIEW='profile';window.scrollTo(0,0);render();});}
 function goFeed(){VIEW='feed';PROFILE=null;window.scrollTo(0,0);render();}
@@ -621,6 +624,14 @@ fetch('/api/feed').then(r=>r.json()).then(d=>{DATA=d;
   // auto-pause when you look away, auto-resume when you return (Page Visibility API)
   document.addEventListener('visibilitychange',()=>{if(document.hidden){_stop();}else{if(!MANUAL_PAUSE)_start();render();}updateAlive();});
   window.addEventListener('pagehide',_stop); window.addEventListener('beforeunload',_stop);
+  // auto-hide the header on scroll down, reveal it on scroll up (ignore programmatic scroll-anchoring jumps)
+  let _lastY=window.scrollY, _hdrHid=false;
+  window.addEventListener('scroll',()=>{const y=window.scrollY;const top=document.querySelector('.top');
+    if(!top||Date.now()-(window.__progScroll||0)<180){_lastY=y;return;}
+    if(y<=60){if(_hdrHid){top.classList.remove('hidden');_hdrHid=false;}}
+    else if(y>_lastY+4){if(!_hdrHid){top.classList.add('hidden');_hdrHid=true;}}
+    else if(y<_lastY-4){if(_hdrHid){top.classList.remove('hidden');_hdrHid=false;}}
+    _lastY=y;},{passive:true});
   // dismiss the notifications panel when you click anywhere outside it (but not on the bell, which toggles it)
   document.addEventListener('click',e=>{const np=document.getElementById('npanel');
     if(np.classList.contains('show')&&!e.target.closest('#npanel')&&!e.target.closest('#bell'))np.classList.remove('show');
