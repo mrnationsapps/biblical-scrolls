@@ -1,0 +1,94 @@
+{
+  "_note": "ABRAHAM CYCLE, part 1. Beat 11 (From Shem to Abram, Gen 11:10-32): the line reaches Abram; Terah leads them out of Ur toward Canaan but dies in Haran; Sarai is barren (the promise-tension). Beat 12 (The Call of Abram, Gen 12): the sevenfold promise pays off the Babel ember ('make a name' -> 'I will make YOUR name great'; scattered 'families' -> 'all families blessed in you'); Abram obeys at 75, enters Canaan, builds altars; then FAILS in Egypt (Sarai-as-sister out of fear), and God guards her and the promise anyway. Beat 13 (Abram & Lot Part Ways, Gen 13): herdsmen strife; Abram refuses to grasp and lets Lot choose first (the anti-Babel posture); Lot picks the Jordan plain and drifts toward Sodom (foreshadow); God enlarges the land+offspring promise. Narration balance: characters carry it (Abram/Sarai/Lot/Terah + camp witnesses Resh/Oziel/Hodael); outlets reserved for the Watchman ember and the divine action in Egypt. Reactions stay modest: the promise begins small and hidden in one nomad's household. Verified against Gen 11:10-13:18 (Sarai as half-sister per Gen 20:12).",
+  "posts": [
+
+    {"id":"P1101","beat":11,"author":"CHAR_048","kind":"post","time":"morning","canon":"Canonical","weight":"Spine",
+     "body":"I am an old man and I am starting over. We are leaving Ur, the only city my family has ever known, and setting our faces toward the land of Canaan. My son @CHAR_049, his wife @CHAR_052, and my grandson @CHAR_053 come with me. I cannot fully say why. Something in me could not stay another season. We have come as far as Haran, and here, I think, these old bones will rest a while. The young ones will go on from here. They always do.",
+     "reactions":{"heart":6,"pray":4,"amen":0,"sad":2,"like":0},"react_note":"Nahor, Milcah and 4 others",
+     "ember":"the line of Shem leaves Ur of the Chaldeans (Gen 11:31); the journey toward the land begins before the promise is ever spoken","comments":[]},
+
+    {"id":"P1102","beat":11,"author":"CHAR_052","kind":"post","time":"the cool of the day","canon":"Canonical","weight":"Spine",
+     "body":"They keep telling me a house is not a home until it is full of children. As if I did not know. As if I do not count the empty places at every meal. I am Sarai, wife of Abram, and I have borne no child, and I am no longer young. I have made my peace with a great many things in this long life. This is not yet one of them. If God has anything at all to say to me, I am listening. I have been listening a very long time.",
+     "reactions":{"heart":11,"pray":9,"amen":0,"sad":5,"like":0},"react_note":"the women of the camp",
+     "highlight":"Sarai is barren (Gen 11:30)",
+     "ember":"the promise of offspring will have to be a work of God, not of man; the whole covenant hangs on a closed womb","comments":[]},
+
+    {"id":"P1103","beat":11,"author":"CHAR_049","kind":"memorial","time":"as the sun set","canon":"Canonical","weight":"Spine",
+     "memorial_for":"Terah, who set out for a land he would not reach",
+     "tags":["CHAR_048"],
+     "body":"My father Terah has died, here in Haran, two hundred and five years old. He led us out of Ur and pointed us toward Canaan, and he brought us this far and no further. I have been sitting with that all day. A man can spend his whole life walking toward a country and lie down at last within sight of the road that leads to it. He was the one who turned our faces away from the only home we had. Whatever comes next for us, it began with him. Rest now, father.",
+     "reactions":{"heart":8,"pray":13,"amen":0,"sad":10,"like":0},"react_note":"Nahor, Lot and many others",
+     "ember":"Terah dies in Haran short of Canaan (Gen 11:32); the baton passes to Abram, and God is about to speak","comments":[]},
+
+    {"id":"P1201","beat":12,"author":"CHAR_049","kind":"post","time":"first light","canon":"Canonical","weight":"Spine",
+     "body":"The LORD spoke to me. I can find no smaller way to say it. He said: Go out from your country, and from your people, and from your father's house, to a land that I will show you. And I will make you into a great nation, and I will bless you, and I will make your name great, and you will be a blessing. I will bless those who bless you, and whoever curses you I will curse, and in you all the families of the earth will be blessed. He did not tell me where. He said a land I WILL show you, as though the showing waits on the going. I am seventy-five years old. Sarai and I have no child and no map. And tomorrow we go. God help me, we go.",
+     "reactions":{"heart":14,"pray":12,"amen":6,"sad":0,"like":0},"react_note":"Lot, Resh and many others",
+     "highlight":"the call of Abram: leave everything for a land God will show; the sevenfold promise (Gen 12:1-3)",
+     "ember":"'I will make your name great' answers Babel's 'let us make a name for ourselves'; 'all the families of the earth blessed in you' gathers back the scattered nations; the promise Paul calls the gospel preached beforehand (Gal 3:8)",
+     "comments":[{"author":"CHAR_052","body":"He told you a land He will show you, and you said yes without asking to see it first. I have known for twenty-five years you would do exactly this. I am coming. Of course I am coming.","time":"first light"},
+                 {"author":"CHAR_053","body":"Wherever you go, uncle. I have watched how it goes for the man God's hand is on. I would rather be lost with you than settled without you.","time":"the third hour"}]},
+
+    {"id":"P1202","beat":12,"author":"OUTLET_watchman","kind":"news","time":"morning","canon":"Inferred","weight":"Spine",
+     "body":"I told you to watch for the man He would call. Here he is. On the plain of Shinar the whole world said with one voice, let us make a name for ourselves, and they were scattered, nameless. Today God comes down to one old man with no son and says, I will make YOUR name great. And hear the rest, for this is the very mending of Babel: in you all the families of the earth will be blessed. The families broken apart and scattered from the tower, gathered back and blessed through one man's line. The name they snatched at, given now as a gift. The nations they lost, promised a road home. Watch this family. From here on, everything runs through here. 👁️",
+     "reactions":{"heart":0,"pray":15,"amen":11,"sad":0,"like":0},"react_note":"Eber, Shem and many others",
+     "ember":"Babel undone in Abram: 'make a name' -> 'I will make your name great' (Gen 12:2 vs 11:4); scattered families -> 'all families blessed in you' (Gen 12:3); the Abrahamic covenant, spine of all Scripture","comments":[]},
+
+    {"id":"P1203","beat":12,"author":"CHAR_667","kind":"post","time":"the third hour","canon":"Fictional","weight":"Texture",
+     "body":"So here is my week. My master @CHAR_049 announces that God has told him to pack up the whole household, the flocks, the herds, the tents, all of us, and walk to a land he cannot name because he has never seen it and does not know where it is. My wife says he has finally lost his mind. I told her the man is seventy-five and has never once steered us wrong, and if God was going to speak to anybody in these parts it was always going to be him. So we are going. I have no idea where. I will let you all know if we ever arrive. 🐐",
+     "reactions":{"heart":9,"pray":2,"amen":0,"sad":0,"like":15},"react_note":"Mavah, Hodael the Elder and many others",
+     "comments":[{"author":"CHAR_677","body":"Rolled up my entire loom for this. If we are walking to nowhere, I am at least walking there in good company. Save me a spot by the fire.","time":"midday"}]},
+
+    {"id":"P1204","beat":12,"author":"CHAR_049","kind":"post","time":"midday","canon":"Canonical","weight":"Spine",
+     "body":"We have come into the land. Canaan. We stopped at the great tree of Moreh, near Shechem, and there the LORD appeared to me again and said: to your offspring I will give this land. My offspring. I stood in a country full of other men's cities and other men's gods, and was handed the whole of it, for children I do not yet have. I built an altar on the spot, stones piled up to say it plainly: He was here, He spoke, I believed Him. Then on into the hills between Bethel and Ai, another altar, and there I called on the name of the LORD out loud. Let the whole land hear it. We serve the God who keeps His word.",
+     "reactions":{"heart":10,"pray":13,"amen":7,"sad":0,"like":0},"react_note":"Sarai, Lot and many others",
+     "highlight":"Abram enters Canaan; God promises the land to his offspring; altars at Shechem and Bethel (Gen 12:6-8)",
+     "ember":"the land promise given while Abram is still childless and landless; altars marking where God spoke","comments":[]},
+
+    {"id":"P1205","beat":12,"author":"CHAR_052","kind":"post","time":"as the lamps were lit","canon":"Canonical","weight":"Spine",
+     "body":"There is a famine in the land, so we have gone down into Egypt to wait it out. Before we came, my husband took my hands and asked something of me I never thought I would hear. He is afraid. He is sure the Egyptians will see me and kill him to take me, so he asked me to say that I am his sister. It is not even a whole lie; I am his half-sister. That is the part that aches. I said yes. What else does a wife do. I am afraid too. I am telling you the truth because someone should hold it: even the man God called walks scared sometimes, and asks more of the people who love him than he ought to. I am trusting the God who called us. Tonight I am not sure I am trusting anyone else.",
+     "reactions":{"heart":7,"pray":10,"amen":0,"sad":16,"like":0},"react_note":"the women of the camp",
+     "highlight":"in Egypt, out of fear, Abram asks Sarai to call herself his sister (Gen 12:10-13)",
+     "ember":"even the called walk in fear; the covenant is carried by grace, not by the patriarch's perfection",
+     "comments":[{"author":"CHAR_675","body":"We are with you, whatever these days hold. You will not sit alone in that tent, not for one hour of it. The women of this camp are yours.","time":"nightfall"}]},
+
+    {"id":"P1206","beat":12,"author":"OUTLET_cosmic_herald","kind":"news","time":"the dead of night","canon":"Canonical","weight":"Spine",
+     "body":"And Pharaoh took the woman into his house, and for her sake he dealt well with Abram. But the LORD struck Pharaoh and all his household with great plagues because of Sarai, the wife of Abram. The promise had a keeper that night, and it was not the man who had bargained her away. It was God, who would not let her be lost, because through her the whole of it must come.",
+     "reactions":{"heart":0,"pray":14,"amen":8,"sad":0,"like":0},"react_note":"Eber, Shem and many others",
+     "ember":"God guards Sarai and the promise despite Abram's failure (Gen 12:15-17); grace keeps the covenant when the man cannot","comments":[]},
+
+    {"id":"P1207","beat":12,"author":"CHAR_049","kind":"post","time":"morning","canon":"Canonical","weight":"Spine",
+     "body":"Pharaoh sent for me. He knew. He asked me to my face why I had said she was my sister, why I had let him take her. I had no answer that was not shame. He gave her back and sent us out of Egypt under guard, with everything we owned. I earned a prison and got an escort instead. We are going back up to the land, back to the altar I built between Bethel and Ai, back to the name of the LORD. I have things to say to Him, and most of them begin with the word sorry. He called me. He did not call me because I was strong. I am learning that the hard way, one failure at a time.",
+     "reactions":{"heart":9,"pray":12,"amen":0,"sad":4,"like":0},"react_note":"Sarai, Resh and many others",
+     "ember":"the failing man brought back to the altar and the name of the LORD (Gen 12:18-13:4)",
+     "comments":[{"author":"CHAR_052","body":"You said your sorry to me already, in the way you have not once let go of my hand since Egypt. We go back up together. We always were going to.","time":"midday"}]},
+
+    {"id":"P1301","beat":13,"author":"CHAR_672","kind":"post","time":"the ninth hour","canon":"Fictional","weight":"Texture",
+     "body":"I will tell you what nobody in the fine tents wants to say out loud. Abram's herds and Lot's herds have grown too big for one country to hold. Every well is a shoving match now. My cousin herds for Lot, I herd for Abram, and last week the two of us nearly came to blows over a watering trough our grandfathers would have shared without a word. It cannot go on like this. Two great houses, one set of hills, one set of wells. Somebody is going to have to move.",
+     "reactions":{"heart":3,"pray":1,"amen":0,"sad":7,"like":9},"react_note":"Resh, Pareth and many others","comments":[]},
+
+    {"id":"P1302","beat":13,"author":"CHAR_049","kind":"post","time":"morning","canon":"Canonical","weight":"Spine",
+     "body":"@CHAR_053 and I stood on the high ground this morning and looked out over the whole land. I told him what I have come to believe: let there be no strife between us, for we are family. The land is wide, nephew, and it is all before you. If you take the left hand, I will go to the right; if you go to the right, I will go left. You choose first. He is the younger of us; by every custom alive the choice was mine to make and mine to keep. But I am done grasping. I have a God who has promised to see to my portion. Let Lot take the best of whatever his eyes can find. I can afford to be generous. My inheritance was never in my own two hands.",
+     "reactions":{"heart":16,"pray":9,"amen":10,"sad":0,"like":0},"react_note":"Sarai, Hodael the Elder and many others",
+     "highlight":"Abram lets Lot choose first, refusing to grasp for his portion (Gen 13:8-9)",
+     "ember":"the man of faith does not grasp (the opposite of Babel); he trusts God for his inheritance",
+     "comments":[{"author":"CHAR_053","body":"You always did hand me the first cup, uncle. I will not pretend I did not take the better share of it today. I hope I have chosen well.","time":"the third hour"},
+                 {"author":"CHAR_674","body":"Forty years in this house, and I have never once seen the master reach for the larger piece. It is exactly why the blessing keeps following him. Mark that, young ones.","time":"midday"}]},
+
+    {"id":"P1303","beat":13,"author":"CHAR_053","kind":"post","time":"the cool of the day","canon":"Canonical","weight":"Spine",
+     "body":"I chose, and I will not apologize for choosing well. The whole plain of the Jordan is watered like a garden, green as far as the eye can carry, green the way they say Egypt is green. My uncle waved his hand across all of it and told me to take my pick, so I took the best of it. We are moving east, down toward the cities of the plain, toward Sodom. I hear things about Sodom. I am sure they are exaggerated. A man goes where the water and the grass are. That is simply good sense. Isn't it?",
+     "reactions":{"heart":4,"pray":2,"amen":0,"sad":6,"like":11},"react_note":"Boran, Sela and many others",
+     "highlight":"Lot chooses the well-watered Jordan plain and pitches his tent toward Sodom (Gen 13:10-12)",
+     "comments":[{"author":"CHAR_670","body":"Green grass is green grass. But I have kin near those cities, and I would not raise my children in the shadow of Sodom for all the water in the Jordan. Watch yourself down there, friend.","time":"nightfall"}]},
+
+    {"id":"P1304","beat":13,"author":"OUTLET_watchman","kind":"news","time":"nightfall","canon":"Inferred","weight":"Spine",
+     "body":"A note for the record. Quiet, but not small. The men of Sodom, where Lot has now turned his tents, were wicked, great sinners against the LORD. A man can choose his country by the color of the grass and never once lift his eyes to the sky over it. Lot looked hard at the water. He did not look at the city. Remember that he pitched toward Sodom. We will have to come back to this. 👁️",
+     "reactions":{"heart":0,"pray":6,"amen":0,"sad":5,"like":0},"react_note":"Eber and 6 others",
+     "ember":"Lot's drift toward Sodom (Gen 13:12-13), the seed of Genesis 19; choosing by the eyes, not by the LORD","comments":[]},
+
+    {"id":"P1305","beat":13,"author":"CHAR_049","kind":"post","time":"first light","canon":"Canonical","weight":"Spine",
+     "body":"After Lot had gone his way, the LORD said to me: lift up your eyes from where you are standing and look, north and south, east and west. All the land that you can see, I will give to you and to your offspring forever. And I will make your offspring like the dust of the earth, so that if a man could count the dust, then your offspring could be counted. Rise up, He said, and walk through the length and the breadth of the land, for I am giving it to you. So I have moved my tents to the great trees of Mamre at Hebron, and I built an altar there to the LORD. I gave Lot the piece he could see with his eyes. God gave me the piece I have to trust Him for. I know which of the two I would rather be holding.",
+     "reactions":{"heart":13,"pray":14,"amen":9,"sad":0,"like":0},"react_note":"Sarai, Resh and many others",
+     "highlight":"after Lot departs, God enlarges the promise: all the land forever, offspring like the dust of the earth (Gen 13:14-17)",
+     "ember":"land and offspring promise enlarged; Abram settles at Hebron/Mamre (the place of the three visitors to come, Gen 18)","comments":[]}
+  ]
+}

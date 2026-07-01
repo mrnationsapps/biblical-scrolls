@@ -1,0 +1,93 @@
+{
+  "_note": "Vertical-slice proof: the content engine recipe (CONTENT_ENGINE.md) run BY HAND on the Beat 1-3 family neighborhood. Generated from each character's Personality + Work + friends + the active beat. Tagged ambient:true so they populate PROFILES, not the curated main feed.",
+  "posts": [
+    {"id":"A001","beat":3,"author":"CHAR_1375","kind":"post","time":"before first light","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"Out with the flock before light again. Abel showed me how to know each ewe by her face, not just her markings. He says a real shepherd never counts the flock, he knows it. I'm not there yet. But I'd follow that man into any field. 🐑",
+     "reactions":{"heart":3,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"Lirah, Yedil and 1 other",
+     "comments":[{"author":"CHAR_004","body":"You're closer than you think, brother. You sat out in the rain with the lame one all last week. That's the whole job, right there.","time":"morning"},
+                 {"author":"CHAR_1377","body":"He knows them by FACE. Sareth, half the time I can't tell you apart from Renel.","time":"morning"},
+                 {"author":"CHAR_1379","body":"rude. accurate. but rude.","time":"morning"}]},
+
+    {"id":"A002","beat":3,"author":"CHAR_1376","kind":"post","time":"morning","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"Three little ones underfoot and a fourth on the way, in a world that's barely begun. Some mornings I watch them and think, you have no idea how new all of this is. You believe the river was always here. You believe people were always many. 😊",
+     "reactions":{"heart":4,"pray":1,"amen":0,"sad":0,"like":0},"react_note":"Eve, Asha and 2 others",
+     "comments":[{"author":"CHAR_002","body":"Treasure it, Yedil. I remember when \"many\" meant two. 🤍","time":"morning"},
+                 {"author":"CHAR_1379","body":"the fourth one should clearly be named after their favorite uncle. just putting it out there.","time":"midday"},
+                 {"author":"CHAR_1376","body":"Renel you are nineteen and have never once changed a swaddle.","time":"midday"}]},
+
+    {"id":"A003","beat":3,"author":"CHAR_1377","kind":"post","time":"afternoon","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"Long day breaking ground beside Cain. He didn't say ten words all morning. Just swung that hoe like the dirt owed him a debt. I've worked next to him since we were boys, I know his quiet. This is not his quiet. Something is coming off him like heat off a stone. 🌾",
+     "reactions":{"heart":0,"pray":2,"amen":0,"sad":0,"like":0},"react_note":"Lirah and 1 other",
+     "comments":[{"author":"CHAR_1374","body":"I've felt it too. I keep telling him to set it down. Lately he won't even look at me.","time":"afternoon"},
+                 {"author":"CHAR_1378","body":"Stay near him, both of you. Some weights crack a person if they're left to carry them alone.","time":"evening"}]},
+
+    {"id":"A004","beat":3,"author":"CHAR_1378","kind":"post","time":"afternoon","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"Gleaning behind the reapers today and I caught Mother watching the little ones with that look again. She does it at every birth. Reading their faces like she's searching for someone who hasn't come yet. I've never asked her who. I think I'm afraid of the answer. 🌾",
+     "reactions":{"heart":2,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"Lirah and 1 other",
+     "comments":[{"author":"CHAR_002","body":"One day I'll tell you what I'm watching for, Asha. When you're a mother yourself, you'll watch for Him too.","time":"evening"},
+                 {"author":"CHAR_1378","body":"...Him?","time":"evening"}]},
+
+    {"id":"A005","beat":3,"author":"CHAR_1379","kind":"post","time":"evening","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"Counted forty of us at the meal tonight. FORTY. Grandfather Adam says when he started it was just him and a whole lot of unnamed animals. Now I've got cousins I haven't even met yet. The world is filling up fast, exactly like He said. It's a lot. I'm here for it though. 😄",
+     "reactions":{"heart":3,"pray":0,"amen":0,"sad":0,"like":1},"react_note":"Tevin, Yedil and 2 others",
+     "comments":[{"author":"CHAR_001","body":"Forty. 🤍 You youngsters will never know what the quiet sounded like. Do me a favor and never let it get quiet again.","time":"evening"},
+                 {"author":"CHAR_1377","body":"forty mouths and I'm the one breaking ground for all of them. \"here for it,\" he says.","time":"evening"}]},
+
+    {"id":"A006","beat":3,"author":"CHAR_1377","kind":"post","time":"evening","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"I knew. That's the part I can't set down. I felt it on him in the field and I said nothing, because what is there to say. \"Cheer up\"? So now I get to carry that, right alongside the fact that Abel is gone. Two things I will never put down.",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":5,"like":0},"react_note":"Sareth, Yedil and 3 others",
+     "comments":[{"author":"CHAR_1376","body":"You couldn't have known what he would do. None of us had ever seen it done. There was nothing to brace for, because nothing like it had ever happened.","time":"evening"},
+                 {"author":"CHAR_1375","body":"She's right, Tevin. We were all standing in a world that had never once held a murder. How do you guard against the very first one.","time":"nightfall"}]},
+
+    {"id":"A007","beat":3,"author":"CHAR_1375","kind":"post","time":"morning","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"Went out to the flock this morning out of pure habit. They were looking for him. The ewes kept staring past me, waiting for Abel to come over the rise like he always did. I don't know how to tell a sheep. I'm not sure I know how to tell myself yet either. 💔🐑",
+     "reactions":{"heart":1,"pray":0,"amen":0,"sad":6,"like":0},"react_note":"Asha, Yedil and 4 others",
+     "comments":[{"author":"CHAR_1378","body":"He'd want you out there with them. Keep his lambs, Sareth. It's the truest memorial he could ever have.","time":"morning"},
+                 {"author":"CHAR_1374","body":"He loved that you loved it the way he did. Don't you dare stop. 🤍","time":"morning"}]},
+
+    {"id":"A008","beat":3,"author":"CHAR_1378","kind":"post","time":"night","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"Two empty places at the fire tonight. One we buried. One walked east on his own. I keep counting us, like if I count just one more time the number will come out wrong and they'll both be sitting at the edge of the light again. They won't. 🌙",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":5,"like":0},"react_note":"Sareth, Renel and 3 others",
+     "comments":[{"author":"CHAR_1379","body":"I counted thirty-eight tonight. Couldn't make it come out to forty no matter how I tried. First time the number ever went DOWN.","time":"night"},
+                 {"author":"CHAR_1376","body":"Come sit closer to the fire, both of you. We grieve where the light is. That much we can still choose.","time":"night"}]},
+
+    {"id":"A009","beat":3,"author":"CHAR_1376","kind":"post","time":"night","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"My eldest asked me tonight why Grandmother Eve won't stop crying, and why Uncle Abel isn't coming for supper. I told her the truth, as gently as a person can tell it. She is far too young for this. So am I. There's no old, worn way to grieve yet. We are inventing it tonight, all of us, with our hands shaking. 🌙",
+     "reactions":{"heart":0,"pray":2,"amen":0,"sad":7,"like":0},"react_note":"the family",
+     "comments":[{"author":"CHAR_001","body":"You told her true. That's all any of us can do now. We are the first to walk this road, Yedil. We're making the path for everyone who comes after.","time":"night"},
+                 {"author":"CHAR_1374","body":"You are so good with them. Even tonight. Especially tonight.","time":"night"}]},
+
+    {"id":"A010","beat":3,"author":"CHAR_1379","kind":"post","time":"night","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"First time in my whole life I haven't got a single thing to say. The world got smaller tonight. I didn't even know it could do that. I always thought it only ever grew.",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":4,"like":0},"react_note":"Asha and 3 others",
+     "comments":[{"author":"CHAR_1378","body":"Sit with me. We don't have to say anything at all. Apparently that's allowed now too.","time":"night"},
+                 {"author":"CHAR_001","body":"Hold onto that ache, son. It means you loved him. Never once be ashamed of the ache.","time":"night"}]},
+
+    {"id":"A011","beat":3,"author":"CHAR_1374","kind":"post","time":"afternoon","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"Spent the morning at the loom and the whole afternoon walking back and forth between two brothers who won't look at each other. I love this family. I just wish loving all of them didn't always mean standing in the gap between them. 🧵",
+     "reactions":{"heart":2,"pray":1,"amen":0,"sad":0,"like":0},"react_note":"Yedil and 2 others",
+     "comments":[{"author":"CHAR_1376","body":"You've stood in that gap since we were small. Honestly I don't know what holds us all together if it isn't you.","time":"afternoon"},
+                 {"author":"CHAR_1377","body":"It shouldn't have to be your job, Lirah. He's a grown man. Whatever he's carrying, it is not yours to carry for him.","time":"afternoon"}]},
+
+    {"id":"A012","beat":3,"author":"CHAR_1374","kind":"post","time":"the first watch of the night","canon":"Inferred","weight":"Texture","ambient":true,
+     "body":"Everyone thinks I'm walking east tomorrow out of pity. I'm not. Somebody has to believe a person can still be loved on the worst day they ever caused. And if it isn't family who believes that, then what was family ever for? I leave at first light. Please don't try to stop me. 🌙",
+     "reactions":{"heart":0,"pray":2,"amen":0,"sad":3,"like":0},"react_note":"Yedil, Asha and 1 other",
+     "comments":[{"author":"CHAR_1376","body":"I can't lose two of you in one week. I can't. But I know that look on you. Go with God, sister. Send word the very moment you're able.","time":"the first watch"},
+                 {"author":"CHAR_1378","body":"You were always the bravest of us. I just never wanted to find it out like this. 🤍","time":"the first watch"}]},
+
+    {"id":"A013","beat":3,"author":"CHAR_884","kind":"post","time":"evening","canon":"Fictional","weight":"Texture","ambient":true,
+     "body":"Lost a lamb to the rocks today. My very first one. Sat with it a good while longer than a grown man probably should. Sareth told me once that it never gets easier, and that you shouldn't want it to. Wise, for someone barely older than me. 🐑",
+     "reactions":{"heart":2,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"Sareth and 1 other",
+     "comments":[{"author":"CHAR_1375","body":"It's supposed to hurt. The day it stops hurting is the day you've stopped being a shepherd. You did right by it.","time":"evening"}]},
+
+    {"id":"A014","beat":3,"author":"CHAR_885","kind":"post","time":"morning","canon":"Fictional","weight":"Texture","ambient":true,
+     "body":"Cattle were restless the whole night, wouldn't settle for anything. Old Doran always says the animals feel a thing before the people do. I never put much stock in it. Then this morning the word came down the valley about the two brothers. Now I'm not sure what to put my stock in. 🐂",
+     "reactions":{"heart":0,"pray":3,"amen":0,"sad":0,"like":0},"react_note":"Tevin and 2 others",
+     "comments":[{"author":"CHAR_1377","body":"We felt it out in the field too, Devir. Turns out the whole valley felt it. Doesn't make it any easier to have been right.","time":"morning"}]},
+
+    {"id":"A015","beat":3,"author":"CHAR_887","kind":"post","time":"afternoon","canon":"Fictional","weight":"Texture","ambient":true,
+     "body":"Everyone out in the fields is quiet today. Word travels fast in a world this small. We never had a name for the thing that happened, so now most of us just don't say much at all. We work, we keep our eyes low, and we let the wind do the talking. 🌾",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":4,"like":0},"react_note":"Asha, Devir and 2 others",
+     "comments":[{"author":"CHAR_1378","body":"That's exactly it. No words for it yet. Just wind. Thank you for saying even that much, Noya.","time":"afternoon"}]}
+  ]
+}

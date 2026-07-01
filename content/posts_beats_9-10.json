@@ -1,0 +1,66 @@
+{
+  "_note": "Beat 9 (Table of Nations, Gen 10) + Beat 10 (Tower of Babel, Gen 11:1-9). The world repopulated at the Rainbow Covenant now spreads into nations, then over-reaches at Babel and is scattered. Narration balance: characters carry it (Shem/Javan the spreading, Nimrod the empire, Tomer the Brickmaker the everyman at the tower, Maon the scattering, Peleg the division); outlets reserved for the divine interior (the LORD comes down) and the Watchman ember. The Spine is carried by the two universal outlet posts so a user with no friends still gets the whole event; the character posts enrich it for those who friend the cast. Central ember: 'let us make a name for ourselves' (Gen 11:4) answered by God's coming 'I will make your name great' (Gen 12:2), pointing to the call of Abram. Reactions are larger than the flood's intimate eight because the world has repopulated.",
+  "posts": [
+
+    {"id":"P901","beat":9,"author":"CHAR_011","kind":"post","time":"morning","canon":"Canonical","weight":"Spine",
+     "body":"Seven of us stepped off that mountain. Look at the earth now. My sons have sons who have sons, and they are spreading out to fill the whole of it, exactly as He told us to. @CHAR_093 goes east to the great rivers. @CHAR_095 north to the high plains. @CHAR_092 further east still. I am an old man watching a whole world grow out of one small family, and I still remember every name. Fill it, children. That was the charge. Go and fill it.",
+     "reactions":{"heart":22,"pray":15,"amen":0,"sad":0,"like":0},"react_note":"Japheth, Arphaxad and many others",
+     "highlight":"the Table of Nations: the earth repopulates from the three sons of Noah (Gen 10)",
+     "ember":"from Shem's line comes Arphaxad, Shelah, Eber, the line of the Hebrews toward the promise",
+     "comments":[{"author":"CHAR_093","body":"By the great river I will build, father. Cities that outlast the men who raise them.","time":"midday"},
+                 {"author":"CHAR_095","body":"The high plains are wide and the herds are fat. We are well, and we remember where we came from.","time":"the ninth hour"}]},
+
+    {"id":"P902","beat":9,"author":"CHAR_034","kind":"post","time":"midday","canon":"Canonical","weight":"Texture",
+     "body":"We followed the water west until the land broke into islands and bright coasts, and we settled where the sea meets the sky. Every family that scattered out still speaks the one tongue, so a cousin four coastlands away is still kin the moment he lands his boat on your beach. The world is so much bigger than the deck of one ark. And somehow it is still, all of it, one family. What a thing to be alive for.",
+     "reactions":{"heart":18,"pray":6,"amen":0,"sad":0,"like":0},"react_note":"Tarshish, Kittim and many others",
+     "ember":"the coastland peoples spread from Japheth (Gen 10:5), the nations fanning out across the earth",
+     "comments":[{"author":"CHAR_063","body":"The isles are good, brother. Salt in the air and room enough to grow into.","time":"the cool of the day"}]},
+
+    {"id":"P903","beat":9,"author":"CHAR_039","kind":"post","time":"the ninth hour","canon":"Canonical","weight":"Spine",
+     "body":"Some men herd. Some men farm. I hunt, and I build. I have taken the plain of Shinar and made it the center of the world: Babel, Erech, Accad, cities standing where there was nothing but reed and mud. And I am not finished. From here I go north to the great land and raise Nineveh out of the ground. They are already saying it in every camp, and let them say it: like Nimrod, a mighty one on the earth. A man should leave a mark the years cannot wear back down to mud.",
+     "reactions":{"heart":9,"pray":2,"amen":0,"sad":0,"like":31},"react_note":"Cush, Lirat of Shinar and many others",
+     "highlight":"Nimrod, the first mighty man and empire-builder; his kingdom begins at Babel in Shinar (Gen 10:8-12)",
+     "comments":[{"author":"CHAR_919","body":"Shinar was mud and reeds when I was a girl. Now it is towers and torchlight and traders from every land. Whatever else they say of the man, he builds.","time":"the ninth hour"},
+                 {"author":"CHAR_042","body":"A mark the years cannot wear down. I have heard that particular hunger before. It never once ends where the man who feels it thinks it will.","time":"evening"}]},
+
+    {"id":"P1001","beat":10,"author":"CHAR_925","kind":"post","time":"first light","canon":"Fictional","weight":"Texture",
+     "body":"The whole world speaks one language, and this week the whole world seems to have had one idea. We came east and settled here on the plain of Shinar, and someone said, come, let us make bricks and bake them hard in the fire. Well, that is my entire trade, so of a sudden I am the busiest man in the valley. There is no stone here, so brick is our stone, and tar out of the ground is our mortar. You have never seen anything like the kilns, going day and night, the whole plain glowing. Something big is coming. I can feel it in my aching arms.",
+     "reactions":{"heart":14,"pray":1,"amen":0,"sad":0,"like":20},"react_note":"Kemen of Foothills, Lirat of Shinar and many others",
+     "highlight":"one language, one people, settling Shinar; brick for stone and tar for mortar (Gen 11:1-3)",
+     "comments":[{"author":"CHAR_921","body":"My back is in full agreement with your arms, friend. But I have never in my life felt a whole city lean in one direction the way this one is leaning. It is something to be part of.","time":"the third hour"}]},
+
+    {"id":"P1002","beat":10,"author":"CHAR_039","kind":"post","time":"midday","canon":"Canonical","weight":"Spine",
+     "body":"Here is the plan, and it is a plan worthy of us. A city, and at its heart a tower with its top in the very heavens. Not to reach up to God. To reach ourselves. Let us make a name that no flood, no scattering, no slow forgetting can ever wear away. We were told to spread thin across the earth and be scattered over it. I say we do the opposite. We stay. We build. We become one great name in one great place, and let every generation after us look up and know that we were here.",
+     "reactions":{"heart":6,"pray":3,"amen":0,"sad":4,"like":27},"react_note":"Lirat of Shinar and many others",
+     "highlight":"'let us make a name for ourselves, lest we be scattered' (Gen 11:4), the exact reversal of the charge to fill the earth",
+     "ember":"the grasp for a name by human striving; God's answer will be to give a name as a gift to one man (Gen 12:2)",
+     "comments":[{"author":"CHAR_042","body":"We were told to fill the earth, not to huddle in one place and climb out of it. 'Lest we be scattered' is the very thing He asked of us. I do not think this ends the way you want it to, cousin.","time":"the ninth hour"},
+                 {"author":"CHAR_011","body":"I have watched men reach past the sky before the waters came. I buried nearly all of them. Build your city if you must. But hear an old man once: a name is a thing that is given. It is never a thing that is seized.","time":"evening"}]},
+
+    {"id":"P1003","beat":10,"author":"OUTLET_cosmic_herald","kind":"news","time":"the cool of the day","canon":"Canonical","weight":"Spine",
+     "body":"And the LORD came down to see the city and the tower which the sons of men had built. And He said: behold, they are one people, and they all have one language, and this is only the beginning of what they will do. Now nothing they set out to do will be beyond them. Come, let Us go down, and there confuse their language, so that they may no longer understand one another's speech.",
+     "reactions":{"heart":0,"pray":16,"amen":0,"sad":0,"like":0},"react_note":"Eber, Shem and many others",
+     "ember":"the mercy hidden inside the judgment: united human pride, unchecked, would run headlong to ruin; the scattering restrains it (Gen 11:5-7)","comments":[]},
+
+    {"id":"P1004","beat":10,"author":"CHAR_925","kind":"post","time":"the third hour","canon":"Fictional","weight":"Spine",
+     "body":"I do not know how to set down what happened at the works today. I called up for mortar the way I have a thousand mornings, and the man beside me, a man I have worked shoulder to shoulder with for a year, turned and looked at me as if I were speaking the wind. Then he answered, and it was noise. Only noise. Not one thing in it I could hold onto. And it was not only him. The whole scaffold, the whole valley, thousands of us, all calling out and not one of us understanding a single word of another. The kilns have gone cold. The bricks are stacked where we dropped them. My own brother. I stood there and I could not understand my own brother.",
+     "reactions":{"heart":0,"pray":9,"amen":0,"sad":38,"like":0},"react_note":"Lirat of Shinar and many others",
+     "highlight":"the confusion of tongues, seen from the scaffold (Gen 11:7)","comments":[]},
+
+    {"id":"P1005","beat":10,"author":"CHAR_931","kind":"post","time":"as the sun set","canon":"Fictional","weight":"Spine",
+     "body":"I have crossed this plain a hundred times with goods on my back. Today I watched it empty out. Whole families loading carts and turning their faces to every direction at once, north, west, the far east, wherever the handful of others who suddenly shared their words were going. That is all a people is now, it turns out: the ones who can still speak to you. You found them, and you went. They are calling the place Babel. Confusion. The tower stands out there half-raised and abandoned against the sky, and I do not believe a single soul will ever climb back up to finish it.",
+     "reactions":{"heart":0,"pray":11,"amen":0,"sad":29,"like":0},"react_note":"Tomer the Brickmaker and many others",
+     "highlight":"the LORD scatters them over the earth; the city is left off and named Babel, confusion (Gen 11:8-9)","comments":[]},
+
+    {"id":"P1006","beat":10,"author":"CHAR_043","kind":"post","time":"nightfall","canon":"Canonical","weight":"Texture",
+     "body":"My father named me Peleg, which means division, because I was born in the days the earth was divided. As a boy I thought it a strange and heavy name to hang on a baby. Now I understand it. I was born into a world coming apart into its pieces, into peoples and tongues and far countries. I will never see most of my kin again. I could not so much as ask half of them the way to the nearest water. But my grandfather @CHAR_042 keeps saying the same thing to me: God did not divide the earth to be done with it. He divided it to keep it. And He is not finished with our line.",
+     "reactions":{"heart":13,"pray":10,"amen":0,"sad":3,"like":0},"react_note":"Eber, Reu and many others",
+     "ember":"Peleg, 'division' (Gen 10:25); the scattering narrows the story down toward one kept line",
+     "comments":[{"author":"CHAR_042","body":"Every word of that is true, grandson. Keep your eyes on our line. He is keeping it back for something none of us has seen yet.","time":"nightfall"}]},
+
+    {"id":"P1007","beat":10,"author":"OUTLET_watchman","kind":"news","time":"the dead of night","canon":"Inferred","weight":"Spine",
+     "body":"They said it with one voice, before their voices broke apart: let us make a name for ourselves. And they were scattered to the ends of the earth, nameless, remembered only as confusion. Hold that in your mind. Now find the one quiet line running underneath all the noise, Shem, to Eber, to Peleg, down toward a family in a place called Ur. A day is coming, and it is not as far off as you think, when the God they tried to climb up to will come down to one old and childless man and say to him: I will make YOUR name great. The very name they snatched at and lost, He hands over as a gift. Watch for the man He calls. 👁️",
+     "reactions":{"heart":0,"pray":14,"amen":9,"sad":0,"like":0},"react_note":"Eber, Shem and many others",
+     "ember":"Babel's 'make a name for ourselves' (Gen 11:4) answered by God's 'I will make your name great' (Gen 12:2); the line of Shem runs to Ur and the call of Abram","comments":[]}
+  ]
+}

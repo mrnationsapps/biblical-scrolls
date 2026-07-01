@@ -1,0 +1,169 @@
+Beat_ID,Title,Era,Scripture_Ref,Biblical_Time,Weight,Real_Days,Start_Day,End_Day,Notes
+BEAT_001,Creation & the Seven Days,Creation,Gen 1,In the beginning,6,1.3,1.0,2.3,Wonder of creation; the world named
+BEAT_002,The Garden & the First Sin,Creation,Gen 2-3,Day 1,7,1.5,2.3,3.8,Adam & Eve; the Fall; first promise (Gen 3:15)
+BEAT_003,Cain & Abel,Pre-Flood,Gen 4,early,5,1.1,3.8,4.9,First murder; first memorial page
+BEAT_004,The Line of Seth; Enoch Walks with God,Pre-Flood,Gen 5,~AM 130-1000,2,0.4,4.9,5.3,Genealogy; Enoch 'was not'
+BEAT_005,The World Grows Wicked,Pre-Flood,Gen 6:1-8,pre-flood,3,0.6,5.3,5.9,Corruption; grief of God
+BEAT_006,Noah & the Ark (the building),Pre-Flood,Gen 6,~AM 1536-1656,5,1.1,5.9,7.0,The build; the mockers (ark-thread)
+BEAT_007,The Flood,Pre-Flood,Gen 7-8,AM 1656,6,1.3,7.0,8.3,Catastrophe; the year in the ark
+BEAT_008,The Rainbow Covenant; Noah's Sons,Post-Flood,Gen 9,post-flood,3,0.6,8.3,8.9,Covenant; the curse of Canaan
+BEAT_009,The Table of Nations,Post-Flood,Gen 10,post-flood,1,0.2,8.9,9.1,Pure genealogy - flash by
+BEAT_010,The Tower of Babel,Babel,Gen 11:1-9,~AM 1757,4,0.8,9.1,9.9,The scattering; languages confused
+BEAT_011,From Shem to Abram,Post-Flood,Gen 11:10-32,AM 1658-2008,1,0.2,9.9,10.1,Genealogy - flash by
+BEAT_012,The Call of Abram,Patriarchs,Gen 12,~AM 2021,5,1.1,10.1,11.2,Leave everything on a promise
+BEAT_013,Abram & Lot Part Ways,Patriarchs,Gen 13,,3,0.6,11.2,11.8,The land dispute
+BEAT_014,The War of Kings & Melchizedek,Patriarchs,Gen 14,,4,0.8,11.8,12.6,Rescue of Lot; bread & wine
+BEAT_015,The Covenant of the Stars,Patriarchs,Gen 15,,5,1.1,12.6,13.7,'So shall your offspring be' (promise ember)
+BEAT_016,Hagar & Ishmael,Patriarchs,Gen 16,,4,0.8,13.7,14.5,The surrogate; the God who sees
+BEAT_017,The Covenant of Circumcision,Patriarchs,Gen 17,,3,0.6,14.5,15.1,Abram->Abraham; Sarai->Sarah
+BEAT_018,The Three Visitors & Sodom,Patriarchs,Gen 18-19,,6,1.3,15.1,16.4,Sodom's fall; Lot's wife
+BEAT_019,Isaac Born; Hagar Sent Away,Patriarchs,Gen 21,AM 2108,4,0.8,16.4,17.2,Laughter; the two sons
+BEAT_020,The Binding of Isaac,Patriarchs,Gen 22,,7,1.5,17.2,18.7,The great test of faith
+BEAT_021,Sarah's Death; A Bride for Isaac,Patriarchs,Gen 23-24,,5,1.1,18.7,19.8,Rebekah at the well
+BEAT_022,Abraham Dies; Jacob & Esau Born,Patriarchs,Gen 25,AM 2168/2183,4,0.8,19.8,20.6,The twins; the stew
+BEAT_023,The Stolen Birthright & Blessing,Patriarchs,Gen 25-27,,6,1.3,20.6,21.9,The defining rivalry
+BEAT_024,Jacob's Ladder & Flight,Patriarchs,Gen 28,,4,0.8,21.9,22.7,Heaven opens at Bethel
+BEAT_025,"Jacob, Leah & Rachel",Patriarchs,Gen 29-30,,6,1.3,22.7,24.0,Bait-and-switch wedding; the baby war
+BEAT_026,Jacob Flees Laban,Patriarchs,Gen 31,,4,0.8,24.0,24.8,The flock trickery; the idols
+BEAT_027,Wrestling God; Reunion with Esau,Patriarchs,Gen 32-33,,6,1.3,24.8,26.1,Renamed Israel; the embrace
+BEAT_028,Dinah & Shechem,Patriarchs,Gen 34,,5,1.1,26.1,27.2,The scandal & the massacre
+BEAT_029,Bethel; Rachel & Isaac Die,Patriarchs,Gen 35,,3,0.6,27.2,27.8,Benjamin born; Rachel's death
+BEAT_030,The Generations of Esau,Patriarchs,Gen 36,,1,0.2,27.8,28.0,Edomite genealogy - flash by
+BEAT_031,Joseph's Dreams & Betrayal,Patriarchs,Gen 37,~AM 2276,6,1.3,28.0,29.3,The coat; sold into slavery
+BEAT_032,Judah & Tamar,Patriarchs,Gen 38,,4,0.8,29.3,30.1,Scandal that carries the messianic line
+BEAT_033,Joseph & Potiphar's Wife,Patriarchs,Gen 39,,5,1.1,30.1,31.2,Integrity; the false charge; prison
+BEAT_034,Dreams in Prison,Patriarchs,Gen 40,,4,0.8,31.2,32.0,Cupbearer & baker
+BEAT_035,Pharaoh's Dreams; Joseph Rises,Patriarchs,Gen 41,,6,1.3,32.0,33.3,Prison to vizier overnight
+BEAT_036,The Brothers Come to Egypt,Patriarchs,Gen 42-44,,6,1.3,33.3,34.6,The test; the silver cup; Judah's plea
+BEAT_037,Joseph Reveals Himself,Patriarchs,Gen 45,,6,1.3,34.6,35.9,'I am Joseph!'; reconciliation
+BEAT_038,Jacob Comes to Egypt,Patriarchs,Gen 46-47,AM 2298,4,0.8,35.9,36.7,The family reunited
+BEAT_039,Jacob's Blessings & Death,Patriarchs,Gen 48-49,AM 2315,4,0.8,36.7,37.5,The crossed-hands blessing; the prophecies
+BEAT_040,Joseph's Death,Patriarchs,Gen 50,AM 2369,3,0.6,37.5,38.1,"'You meant evil, God meant good'; the bones"
+BEAT_041,Israel Enslaved; the Midwives,Exodus,Ex 1,~1500s BC,4,0.8,38.1,38.9,Shiphrah & Puah's defiance
+BEAT_042,Moses Born & Exiled,Exodus,Ex 2,,5,1.1,38.9,40.0,The basket; the prince; Midian
+BEAT_043,The Burning Bush,Exodus,Ex 3-4,,6,1.3,40.0,41.3,The reluctant call
+BEAT_044,Confronting Pharaoh; the Plagues,Exodus,Ex 5-10,,7,1.5,41.3,42.8,The plague duel; Jannes & Jambres
+BEAT_045,Passover & the Tenth Plague,Exodus,Ex 11-12,~1446 BC,8,1.7,42.8,44.5,Blood on the doorposts
+BEAT_046,The Red Sea,Exodus,Ex 13-15,,8,1.7,44.5,46.2,The sea splits; Miriam's song
+BEAT_047,"Manna, Water & Amalek",Wilderness,Ex 16-17,,4,0.8,46.2,47.0,Bread from heaven; Joshua's debut
+BEAT_048,Jethro; Arriving at Sinai,Wilderness,Ex 18-19,,4,0.8,47.0,47.8,Delegation; thunder on the mountain
+BEAT_049,The Ten Commandments & the Law,Wilderness,Ex 20-24,,6,1.3,47.8,49.1,The covenant given
+BEAT_050,The Tabernacle Instructions,Wilderness,Ex 25-31,,2,0.4,49.1,49.5,Detailed design - low density
+BEAT_051,The Golden Calf,Wilderness,Ex 32-34,,6,1.3,49.5,50.8,Aaron caves; Moses intercedes
+BEAT_052,The Tabernacle Built,Wilderness,Ex 35-40,,3,0.6,50.8,51.4,Bezalel & Oholiab; the glory fills it
+BEAT_053,Leviticus: Law & Priesthood,Wilderness,Leviticus,,2,0.4,51.4,51.8,Law-heavy; Nadab & Abihu
+BEAT_054,The Census & Camp Order,Wilderness,Num 1-10,,2,0.4,51.8,52.2,The tribes arranged - low density
+BEAT_055,"Grumbling, Quail, Miriam's Leprosy",Wilderness,Num 11-12,,4,0.8,52.2,53.0,Eldad & Medad; the murmuring
+BEAT_056,The Twelve Spies & the 40 Years,Wilderness,Num 13-14,,6,1.3,53.0,54.3,Caleb vs the 10; the doom of a generation
+BEAT_057,Korah's Rebellion,Wilderness,Num 16-17,,5,1.1,54.3,55.4,The ground opens
+BEAT_058,Wandering; the Bronze Serpent,Wilderness,Num 20-21,,4,0.8,55.4,56.2,Miriam & Aaron die; Sihon & Og
+BEAT_059,Balaam & Balak,Wilderness,Num 22-24,,5,1.1,56.2,57.3,The talking donkey; the oracles
+BEAT_060,The Sin at Peor,Wilderness,Num 25,,4,0.8,57.3,58.1,Phinehas's zeal; Zimri & Cozbi
+BEAT_061,Zelophehad's Daughters; Joshua Commissioned,Wilderness,"Num 27,36",,3,0.6,58.1,58.7,Inheritance rights; the handoff
+BEAT_062,Moses' Farewell (Deuteronomy),Wilderness,Deuteronomy,,4,0.8,58.7,59.5,The great speeches; the choice
+BEAT_063,The Death of Moses,Wilderness,Deut 34,,4,0.8,59.5,60.3,Sees the land; dies on Nebo
+BEAT_064,Rahab & the Spies,Conquest,Josh 1-2,~1406 BC,5,1.1,60.3,61.4,The scarlet cord
+BEAT_065,Crossing the Jordan,Conquest,Josh 3-4,,4,0.8,61.4,62.2,The waters heap up
+BEAT_066,The Fall of Jericho,Conquest,Josh 5-6,,7,1.5,62.2,63.7,The walls come down
+BEAT_067,Achan's Sin & Ai,Conquest,Josh 7-8,,5,1.1,63.7,64.8,The hidden loot; defeat then victory
+BEAT_068,The Gibeonite Deception,Conquest,Josh 9,,4,0.8,64.8,65.6,The moldy-bread con
+BEAT_069,The Sun Stands Still,Conquest,Josh 10,,5,1.1,65.6,66.7,The long day at Gibeon
+BEAT_070,Conquest & Division of the Land,Conquest,Josh 11-22,,3,0.6,66.7,67.3,The allotments; Caleb's mountain
+BEAT_071,Joshua's Farewell; Joseph Buried,Conquest,Josh 23-24,,3,0.6,67.3,67.9,'Choose this day'; the bones at Shechem
+BEAT_072,The Cycle Begins; Othniel & Ehud,Judges,Judg 1-3,,4,0.8,67.9,68.7,The left-handed dagger
+BEAT_073,"Deborah, Barak & Jael",Judges,Judg 4-5,,5,1.1,68.7,69.8,The tent peg; the victory song
+BEAT_074,Gideon & the 300,Judges,Judg 6-8,,6,1.3,69.8,71.1,The fleece; torches and jars
+BEAT_075,Abimelech's Bloody Reign,Judges,Judg 9,,4,0.8,71.1,71.9,70 brothers; the millstone
+BEAT_076,Jephthah's Vow,Judges,Judg 10-12,,5,1.1,71.9,73.0,The tragic oath
+BEAT_077,Samson & Delilah,Judges,Judg 13-16,,7,1.5,73.0,74.5,"The riddle, the hair, the temple"
+BEAT_078,Idolatry & Civil War,Judges,Judg 17-21,,3,0.6,74.5,75.1,'Everyone did what was right in his own eyes'
+BEAT_079,Ruth,Judges,Ruth,,5,1.1,75.1,76.2,Loyalty & redemption; the line to David
+BEAT_080,Hannah & the Boy Samuel,Monarchy,1 Sam 1-3,~1100 BC,5,1.1,76.2,77.3,"The vow; 'Speak, LORD'"
+BEAT_081,The Ark Captured & Returned,Monarchy,1 Sam 4-7,,4,0.8,77.3,78.1,Ichabod; the glory departs
+BEAT_082,Israel Demands a King; Saul Anointed,Monarchy,1 Sam 8-10,,5,1.1,78.1,79.2,'A king like the nations'
+BEAT_083,Saul's Reign & Rejection,Monarchy,1 Sam 11-15,,5,1.1,79.2,80.3,Agag; 'to obey is better than sacrifice'
+BEAT_084,David Anointed; David & Goliath,Monarchy,1 Sam 16-17,~1025 BC,8,1.7,80.3,82.0,The shepherd & the giant
+BEAT_085,Saul's Jealousy; David & Jonathan,Monarchy,1 Sam 18-20,,6,1.3,82.0,83.3,The spear; the covenant of friends
+BEAT_086,David the Fugitive,Monarchy,1 Sam 21-26,,6,1.3,83.3,84.6,The cave; Abigail; sparing Saul
+BEAT_087,Endor; Saul Falls at Gilboa,Monarchy,1 Sam 27-31,,5,1.1,84.6,85.7,The medium; the death of Saul
+BEAT_088,David King; the Ark to Jerusalem,Monarchy,2 Sam 1-6,~1000 BC,6,1.3,85.7,87.0,David dances before the LORD
+BEAT_089,The Davidic Covenant,Monarchy,2 Sam 7,,5,1.1,87.0,88.1,'Your throne forever' (messianic ember)
+BEAT_090,David's Wars; Mephibosheth,Monarchy,2 Sam 8-10,,3,0.6,88.1,88.7,Kindness for Jonathan's sake
+BEAT_091,Bathsheba & Uriah; Nathan's Rebuke,Monarchy,2 Sam 11-12,,7,1.5,88.7,90.2,The great fall; 'You are the man'
+BEAT_092,Amnon & Tamar; Absalom's Revenge,Monarchy,2 Sam 13-14,,6,1.3,90.2,91.5,The family tragedy
+BEAT_093,Absalom's Rebellion,Monarchy,2 Sam 15-18,,7,1.5,91.5,93.0,"'O Absalom, my son'"
+BEAT_094,David Restored; Sheba's Revolt,Monarchy,2 Sam 19-20,,4,0.8,93.0,93.8,The return; Joab's ruthlessness
+BEAT_095,David's Last Days; the Census,Monarchy,2 Sam 21-24,,3,0.6,93.8,94.4,Rizpah's vigil; the threshing floor
+BEAT_096,Solomon Secures the Throne,Monarchy,1 Kings 1-2,~970 BC,4,0.8,94.4,95.2,Adonijah; the succession
+BEAT_097,Solomon's Wisdom,Monarchy,1 Kings 3-4,,5,1.1,95.2,96.3,The divided baby
+BEAT_098,Building the Temple,Monarchy,1 Kings 5-8,,6,1.3,96.3,97.6,The golden age; the dedication
+BEAT_099,The Queen of Sheba; Solomon's Glory,Monarchy,1 Kings 9-10,,4,0.8,97.6,98.4,'The half was not told me'
+BEAT_100,Solomon's Fall; the Kingdom Torn,Monarchy,1 Kings 11-12,~930 BC,5,1.1,98.4,99.5,Rehoboam's tax blunder; the schism
+BEAT_101,Jeroboam's Calves; Early Kings,Divided Kingdom,1 Kings 13-16,,3,0.6,99.5,100.1,The golden calves; the coups
+BEAT_102,"Elijah, the Drought & Mount Carmel",Divided Kingdom,1 Kings 17-18,~860 BC,7,1.5,100.1,101.6,"Fire falls; 'The LORD, He is God'"
+BEAT_103,The Still Small Voice; Elisha Called,Divided Kingdom,1 Kings 19,,4,0.8,101.6,102.4,The whisper; the mantle thrown
+BEAT_104,Ahab's Wars; Naboth's Vineyard,Divided Kingdom,1 Kings 20-21,,5,1.1,102.4,103.5,Jezebel's frame-up
+BEAT_105,Micaiah; the Death of Ahab,Divided Kingdom,1 Kings 22,,4,0.8,103.5,104.3,The lying spirit; the random arrow
+BEAT_106,Elijah Taken Up; Elisha's Mantle,Divided Kingdom,2 Kings 1-2,,5,1.1,104.3,105.4,The whirlwind of fire
+BEAT_107,Elisha's Miracles,Divided Kingdom,2 Kings 3-8,,5,1.1,105.4,106.5,The Shunammite; Naaman; the floating axe
+BEAT_108,Jehu's Purge,Divided Kingdom,2 Kings 9-10,~841 BC,5,1.1,106.5,107.6,Jezebel out the window
+BEAT_109,Athaliah & the Hidden King,Divided Kingdom,2 Kings 11-12,,4,0.8,107.6,108.4,The baby in the temple
+BEAT_110,Jonah & Nineveh,Divided Kingdom,Jonah,~780 BC,4,0.8,108.4,109.2,The fish; the reluctant prophet
+BEAT_111,The Decline of Both Kingdoms,Divided Kingdom,2 Kings 13-15,,2,0.4,109.2,109.6,King-list churn - low density
+BEAT_112,Isaiah's Vision; the Messianic Hope,Divided Kingdom,Isaiah,~700 BC,4,0.8,109.6,110.4,"'Holy, holy, holy'; Immanuel; the Servant"
+BEAT_113,The Fall of Israel to Assyria,Divided Kingdom,2 Kings 16-17,722 BC,5,1.1,110.4,111.5,Samaria falls; the ten tribes lost
+BEAT_114,Hezekiah & Sennacherib,Divided Kingdom,2 Kings 18-20,701 BC,6,1.3,111.5,112.8,"185,000 dead overnight"
+BEAT_115,Manasseh's Evil; Josiah's Reform,Divided Kingdom,2 Kings 21-23,,4,0.8,112.8,113.6,The lost scroll found
+BEAT_116,Jeremiah's Warnings; Judah's Doom,Divided Kingdom,Jeremiah,,4,0.8,113.6,114.4,The weeping prophet; the new covenant
+BEAT_117,The Fall of Judah to Babylon,Divided Kingdom,2 Kings 24-25,586 BC,6,1.3,114.4,115.7,The temple burned; the exile
+BEAT_118,Ezekiel by the Chebar; Dry Bones,Exile,Ezekiel,~590 BC,4,0.8,115.7,116.5,Wheels within wheels; 'Can these bones live?'
+BEAT_119,Daniel in Babylon; the Fiery Furnace,Exile,Dan 1-3,~600 BC,6,1.3,116.5,117.8,The king's food; the fourth man in the fire
+BEAT_120,Nebuchadnezzar Humbled,Exile,Dan 4,,4,0.8,117.8,118.6,The king who ate grass
+BEAT_121,The Writing on the Wall; the Lions' Den,Exile,Dan 5-6,539 BC,6,1.3,118.6,119.9,"Mene, Mene; Daniel & the lions"
+BEAT_122,By the Rivers of Babylon,Exile,Ps 137,,3,0.6,119.9,120.5,The longing for Zion (NPC-rich)
+BEAT_123,Cyrus's Decree; the Return,Return,Ezra 1-2,538 BC,4,0.8,120.5,121.3,'Let them go up'
+BEAT_124,Rebuilding the Temple,Return,Ezra 3-6,,4,0.8,121.3,122.1,Foundation in tears; Haggai & Zechariah
+BEAT_125,Esther & Purim,Persian Period,Esther,~478 BC,6,1.3,122.1,123.4,'For such a time as this'; Haman's fall (Amalek payoff)
+BEAT_126,Ezra Restores the Law,Return,Ezra 7-10,~458 BC,3,0.6,123.4,124.0,The Law read aloud; the people weep
+BEAT_127,Nehemiah Rebuilds the Wall,Return,Nehemiah,~445 BC,5,1.1,124.0,125.1,52 days; trowel and sword
+BEAT_128,Malachi & the 400 Silent Years,Return,Malachi,~430 BC,3,0.6,125.1,125.7,"'Behold, I send Elijah'; then silence"
+BEAT_129,The Annunciations,Gospels,Luke 1,~5 BC,7,1.5,125.7,127.2,Gabriel to Zechariah & to Mary
+BEAT_130,The Nativity,Gospels,Luke 2 / Matt 1-2,~5 BC,9,1.9,127.2,129.1,Born in Bethlehem (Micah payoff)
+BEAT_131,The Magi; Flight to Egypt; Herod,Gospels,Matt 2,,6,1.3,129.1,130.4,The star; the slaughter; the escape
+BEAT_132,The Boy Jesus in the Temple,Gospels,Luke 2,~8 AD,5,1.1,130.4,131.5,The hidden years; 'My Father's house'
+BEAT_133,John the Baptist; the Baptism,Gospels,Matt 3 / Luke 3,~27 AD,7,1.5,131.5,133.0,'Prepare the way'; the dove & the voice
+BEAT_134,The Temptation in the Wilderness,Gospels,Matt 4 / Luke 4,,5,1.1,133.0,134.1,40 days; 'It is written'
+BEAT_135,The First Disciples; Water to Wine,Gospels,John 1-2,,6,1.3,134.1,135.4,'Follow Me'; Cana
+BEAT_136,The Woman at the Well; Nicodemus,Gospels,John 3-4,,5,1.1,135.4,136.5,'You must be born again'; living water
+BEAT_137,The Sermon on the Mount,Gospels,Matt 5-7,,7,1.5,136.5,138.0,The Beatitudes; 'love your enemies'
+BEAT_138,Miracles & Healings in Galilee,Gospels,Matt 8-9 / Mark 1-2,,8,1.7,138.0,139.7,"Lepers, paralytics, the storm stilled (NPC gold)"
+BEAT_139,The Twelve Sent; Parables of the Kingdom,Gospels,Matt 10-13,,6,1.3,139.7,141.0,The sower; the mustard seed
+BEAT_140,"John Beheaded; Feeding the 5,000",Gospels,Matt 14,,7,1.5,141.0,142.5,The platter; the loaves & fish
+BEAT_141,Walking on Water; the Bread of Life,Gospels,Matt 14 / John 6,,6,1.3,142.5,143.8,The hard sayings; many turn back
+BEAT_142,The Transfiguration; 'Who Do You Say I Am',Gospels,Matt 16-17,,6,1.3,143.8,145.1,Glory on the mountain; Peter's confession
+BEAT_143,Teaching Toward Jerusalem,Gospels,Luke 9-18,,6,1.3,145.1,146.4,Prodigal son; good Samaritan; the lost
+BEAT_144,Raising Lazarus,Gospels,John 11,,7,1.5,146.4,147.9,"'Lazarus, come out'; the plot to kill Jesus"
+BEAT_145,Zacchaeus; Bartimaeus; the Rich Ruler,Gospels,Luke 18-19,,5,1.1,147.9,149.0,The sycamore; 'let me see'
+BEAT_146,The Triumphal Entry,Gospels,Matt 21 / John 12,~30 AD,8,1.7,149.0,150.7,Palm Sunday; 'Hosanna'
+BEAT_147,Cleansing the Temple; Final Confrontations,Gospels,Matt 21-23,,6,1.3,150.7,152.0,The tables; the woes
+BEAT_148,The Olivet Discourse,Gospels,Matt 24-25,,4,0.8,152.0,152.8,The end of the age; the talents
+BEAT_149,The Last Supper,Gospels,Matt 26 / John 13-17,,9,1.9,152.8,154.7,The bread & cup; 'love one another'
+BEAT_150,Gethsemane & the Betrayal,Gospels,Matt 26,,9,1.9,154.7,156.6,'Not My will'; the kiss; the arrest
+BEAT_151,The Trials of Jesus,Gospels,Matt 26-27 / John 18,,9,1.9,156.6,158.5,Caiaphas; Pilate; Peter's denial; Barabbas
+BEAT_152,The Crucifixion,Gospels,Matt 27 / John 19,,10,2.1,158.5,160.6,THE peak - 'It is finished'; the torn veil
+BEAT_153,The Burial; the Silent Saturday,Gospels,Matt 27 / John 19,,6,1.3,160.6,161.9,The borrowed tomb; the held breath
+BEAT_154,The Resurrection,Gospels,Matt 28 / John 20,,10,2.1,161.9,164.0,THE peak - the empty tomb; 'I have seen the Lord'
+BEAT_155,Emmaus & the Appearances,Gospels,Luke 24 / John 20-21,,8,1.7,164.0,165.7,Burning hearts; Thomas; Peter restored
+BEAT_156,The Great Commission & Ascension,Gospels,Matt 28 / Acts 1,,7,1.5,165.7,167.2,'Go and make disciples'; taken up
+BEAT_157,Pentecost,Early Church,Acts 2,~30 AD,8,1.7,167.2,168.9,"Wind & fire; the church is born; 3,000 baptized"
+BEAT_158,The Early Community; Ananias & Sapphira,Early Church,Acts 3-5,,6,1.3,168.9,170.2,All things in common; the lie that killed
+BEAT_159,Stephen the First Martyr,Early Church,Acts 6-7,,6,1.3,170.2,171.5,The stoning; Saul holds the coats
+BEAT_160,Philip & the Ethiopian; Saul's Conversion,Early Church,Acts 8-9,,7,1.5,171.5,173.0,The Damascus road
+BEAT_161,Cornelius; the Gospel to the Gentiles,Early Church,Acts 10-11,,5,1.1,173.0,174.1,The sheet of animals; the door opens
+BEAT_162,Peter's Escape; Herod's Death,Early Church,Acts 12,,4,0.8,174.1,174.9,The angel; Rhoda; the worms
+BEAT_163,First Journey; the Jerusalem Council,Early Church,Acts 13-15,~49 AD,5,1.1,174.9,176.0,Grace for the Gentiles
+BEAT_164,"Second Journey: Philippi, Athens, Corinth",Early Church,Acts 16-18,,6,1.3,176.0,177.3,Lydia; the jailer; Mars Hill
+BEAT_165,Third Journey: Ephesus,Early Church,Acts 19-20,,5,1.1,177.3,178.4,The riot of the silversmiths
+BEAT_166,Paul Arrested; the Voyage to Rome,Early Church,Acts 21-28,~60 AD,6,1.3,178.4,179.7,The trials; the shipwreck; 'I appeal to Caesar'
+BEAT_167,The Letters Go Out,Early Church,the Epistles,,4,0.8,179.7,180.5,The teaching spreads to the churches
+BEAT_168,Revelation: the Final Vision,Early Church,Revelation,~95 AD,6,1.3,180.5,181.8,The throne; the Lamb; new heaven & new earth

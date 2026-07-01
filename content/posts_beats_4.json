@@ -1,0 +1,90 @@
+{
+  "posts": [
+    {"id":"P401","beat":4,"author":"OUTLET_cosmic_herald","kind":"news","time":"first light","canon":"Canonical","weight":"Spine",
+     "body":"The years stretch into centuries. From the one man and the one woman, two great branches now spread across the earth: the line of Seth and the line of Cain. The world is filling, exactly as He commanded. But the two branches are growing apart.",
+     "reactions":{"heart":0,"pray":12,"amen":0,"sad":0,"like":0},"react_note":"Seth, Enosh and 60 others","comments":[]},
+
+    {"id":"P402","beat":4,"author":"OUTLET_cosmic_herald","kind":"news","time":"at dusk","canon":"Canonical","weight":"Spine",
+     "body":"Something new has begun in the line of Seth. In the days of Enosh, people gathered together and began to call on the name of the LORD. The first worship. The first prayers lifted by many voices at once.",
+     "reactions":{"heart":0,"pray":40,"amen":0,"sad":0,"like":0},"react_note":"Enosh, Seth and 88 others",
+     "ember":"worship begins in the line of promise (Gen 4:26)","comments":[]},
+
+    {"id":"P403","beat":4,"author":"CHAR_006","kind":"post","time":"at dusk","canon":"Inferred","weight":"Spine",
+     "body":"We gather at dusk now to call on His name. Out loud. Together. My great-grandfather Adam still remembers walking with Him in the garden. The rest of us only have His name, and each other, and the calling. It is enough. It has to be enough.",
+     "reactions":{"heart":18,"pray":22,"amen":0,"sad":0,"like":0},"react_note":"Seth, Eve and 30 others",
+     "comments":[{"author":"CHAR_002","body":"My boy. Your grandfather Seth would weep to hear it. Keep calling. He always answers, even when it doesn't feel like it.","time":"dusk"},
+                 {"author":"CHAR_005","body":"This is the whole reason I was born, I think. Not to replace Abel. To start this.","time":"dusk"}]},
+
+    {"id":"P404","beat":4,"author":"CHAR_021","kind":"post","time":"midday","canon":"Inferred","weight":"Texture",
+     "body":"Packed the whole household into tents this season. Why build walls when the herds need fresh grass? We follow the grazing wherever it's good. First family to live this way. Won't be the last, mark my words.",
+     "reactions":{"heart":9,"pray":0,"amen":0,"sad":0,"like":14},"react_note":"Tubal-Cain, Adah and 11 others","comments":[]},
+
+    {"id":"P405","beat":4,"author":"CHAR_022","kind":"post","time":"all through the night","canon":"Inferred","weight":"Texture",
+     "body":"I made a thing. Stretched gut-strings over a curved frame, and when you pluck them, they SING. Then a hollow reed that hums when you breathe through it. I have been awake all night. The whole camp came and just sat and listened. We have never had this before. The world has a sound now. 🎶",
+     "reactions":{"heart":55,"pray":0,"amen":0,"sad":0,"like":20},"react_note":"Adah, Naamah and 70 others",
+     "highlight":"the first music in the world",
+     "comments":[{"author":"CHAR_019","body":"My son the first musician. I cried and I don't even know why. Play the slow one again tonight.","time":"morning"},
+                 {"author":"CHAR_006","body":"Heard it carry across the valley. We have started using it when we call on His name. Turns out He gave us a sound worth lifting to Him.","time":"morning"}]},
+
+    {"id":"P406","beat":4,"author":"CHAR_023","kind":"post","time":"this morning","canon":"Inferred","weight":"Texture",
+     "body":"Turns out fire makes the green rock weep a bright metal. Hammered it into a blade this morning, sharper than any stone ever dreamed of being. Plows, axes, hooks, knives. And yes, swords, before you ask. A tool is only as kind or as cruel as the hand that holds it. My hands are open for orders.",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":3,"like":24},"react_note":"Jabal, Lamech and 19 others",
+     "comments":[{"author":"OUTLET_watchman","body":"\"As cruel as the hand that holds it.\" We will be watching the hands. 👁️","time":"midday"}]},
+
+    {"id":"P407","beat":4,"author":"CHAR_018","kind":"post","time":"evening","canon":"Canonical","weight":"Spine",
+     "body":"Adah. Zillah. My wives, hear me, listen to what I say. I have killed a man for wounding me, a young man merely for striking me. If Cain is avenged seven times over, then Lamech is avenged seventy-seven. Let any man alive think very hard before he raises a hand against me.",
+     "reactions":{"heart":0,"pray":4,"amen":0,"sad":31,"like":0},"react_note":"the valley goes quiet",
+     "format":"the boast (Gen 4:23-24): violence compounding down Cain's line",
+     "comments":[{"author":"CHAR_020","body":"You don't have to say these things out loud, Lamech. The boys are listening to every word.","time":"evening"},
+                 {"author":"OUTLET_watchman","body":"Cain killed and hid his face. His descendant kills and writes a song about it. The line runs downhill. 👁️","time":"evening"}]},
+
+    {"id":"P408","beat":4,"author":"CHAR_007","kind":"post","time":"at dusk","canon":"Inferred","weight":"Texture",
+     "body":"People keep asking where I go on my long walks. I tell them the truth: with Him. They smile like it's a turn of phrase. It isn't. I walk with God. Every year the walk grows longer, the way back home grows shorter, and I find I mind the journey less and less.",
+     "reactions":{"heart":40,"pray":35,"amen":0,"sad":0,"like":0},"react_note":"Methuselah, Enosh and 50 others",
+     "comments":[{"author":"CHAR_008","body":"Father. You say things like this and then act surprised that we worry about you.","time":"evening"},
+                 {"author":"CHAR_007","body":"Don't worry, son. I've never once felt safer than I do out there.","time":"evening"}]},
+
+    {"id":"P409","beat":4,"author":"OUTLET_cosmic_herald","kind":"news","time":"this morning","canon":"Canonical","weight":"Spine",
+     "body":"Enoch walked with God three hundred years. And then, this morning, he was not, for God took him. He did not die. He was simply taken. The first of all the children of Adam to escape the dust. A door none of us knew was even there. ✨",
+     "reactions":{"heart":60,"pray":90,"amen":0,"sad":12,"like":0},"react_note":"Methuselah, Seth and 200 others",
+     "highlight":"the man who did not die",
+     "ember":"a door out of death exists; the curse is not the final word",
+     "comments":[{"author":"CHAR_008","body":"There is no grave. We looked. There is nothing to bury. My father just... went home. I don't know whether to grieve or to celebrate, so I am doing both at once.","time":"this morning"},
+                 {"author":"CHAR_002","body":"To dust we were told we would return. And one of us did not. Oh, what a thing to live to see. There is a way back to Him after all.","time":"this morning"}]},
+
+    {"id":"P410","beat":4,"author":"OUTLET_cosmic_herald","kind":"news","time":"as the sun set","canon":"Canonical","weight":"Spine",
+     "body":"Adam, the first man, lived nine hundred and thirty years. And today, he died. The dust has returned to the dust, exactly as it was spoken in the garden so long ago. The first breath God ever breathed into clay has gone back to the One who breathed it.",
+     "reactions":{"heart":0,"pray":120,"amen":0,"sad":240,"like":0},"react_note":"all the living",
+     "highlight":"the first man returns to dust, the curse comes full circle","comments":[]},
+
+    {"id":"P411","beat":4,"author":"CHAR_002","kind":"memorial","time":"before dawn","canon":"Inferred","weight":"Spine",
+     "body":"My Adam. The first man. My husband for nine hundred years and more. We were the only two people left alive who remembered the garden. Now I am the only one. The ground has taken him back, just as He warned us it would on that first dark and freezing night. I am not sorry I reached for that fruit beside him. I am only sorry that it ended exactly the way He said. I will carry the promise the rest of my days, alone now, and I will keep watching for the One who undoes all of this. 🤍",
+     "reactions":{"heart":0,"pray":85,"amen":0,"sad":210,"like":0},"react_note":"all the living",
+     "memorial_for":"Adam, the first man, formed from the dust","tags":["CHAR_001"],
+     "highlight":"the first widow mourns the first man",
+     "ember":"Eve still watching for the seed of Gen 3:15",
+     "comments":[{"author":"CHAR_005","body":"He held me the day I was born and told me I was a gift in place of what was lost. I have tried my whole life to be worth that. Rest now, father. We have the promise from here.","time":"before dawn"},
+                 {"author":"CHAR_006","body":"The last man who remembered Eden is gone. We have to carry it now in the telling. We will. Grandmother, we will. 🤍","time":"before dawn"}]},
+
+    {"id":"P412","beat":4,"author":"CHAR_028","kind":"post","time":"at first light","canon":"Canonical","weight":"Spine",
+     "body":"My son is born, and I have named him Noah, which is to say Rest. Because this one, I believe in my bones, will bring us relief from our work and from the painful toil of our hands, out of the very ground the LORD has cursed. I am so tired. The whole world is so tired. Let this boy be the rest we have been waiting for since the garden.",
+     "reactions":{"heart":70,"pray":55,"amen":0,"sad":0,"like":0},"react_note":"Methuselah, Enosh and 90 others",
+     "ember":"Noah named for the rest/comfort he will bring (Gen 5:29) -> the Flood + a new start",
+     "comments":[{"author":"CHAR_008","body":"My grandson, naming my great-grandson for rest. I have lived long enough to see hope handed down four generations deep. Hold onto it, boy.","time":"at first light"}]},
+
+    {"id":"P413","beat":4,"author":"OUTLET_vine_fig","kind":"news","time":"after dark","canon":"Inferred","weight":"Texture",
+     "body":"The city of Enoch is THE place to be these days. Music in every street (thank you, Jubal), bright bronze in every market stall (thank you, Tubal-Cain), and the festivals simply never stop. A few old voices grumble that it's gotten a little much. We say: the world is wide and life is short, so live a little. 🍷🎶",
+     "reactions":{"heart":30,"pray":0,"amen":0,"sad":6,"like":44},"react_note":"Naamah, Jabal and 120 others",
+     "comments":[{"author":"CHAR_006","body":"Life is short. That's exactly why I'd spend a little less of it at the festival and a little more of it calling on His name. Said with love. Mostly.","time":"after dark"}]},
+
+    {"id":"P414","beat":4,"author":"CHAR_008","kind":"post","time":"at dusk","canon":"Inferred","weight":"Texture",
+     "body":"I have lived longer than any man ever has, and here is what the years actually teach you: the world does not drift toward goodness on its own. It has to be called back, over and over, by name. Fewer are answering the call now than when I was young. My grandson named his boy Rest. I pray the child grows into the name. I do not think I will be here to see what comes. I have the strangest feeling I am not meant to be.",
+     "reactions":{"heart":50,"pray":48,"amen":0,"sad":18,"like":0},"react_note":"Enosh, Seth and 70 others",
+     "ember":"Methuselah, oldest man alive; tradition: his death coincides with the Flood","comments":[]},
+
+    {"id":"P415","beat":4,"author":"OUTLET_watchman","kind":"news","time":"nightfall","canon":"Inferred","weight":"Spine",
+     "body":"Look at the two rivers now. One gathers at dusk to call on the name of the LORD. The other forges swords and sings songs about seventy-sevenfold revenge. They will not run side by side forever. And keep your eye on the old man, Methuselah, the oldest soul who has ever drawn breath. The aged have a way of outlasting an entire age, but never by very much. When the oldest tree finally falls, the storm has always been very close behind. 👁️",
+     "reactions":{"heart":0,"pray":33,"amen":0,"sad":9,"like":0},"react_note":"Enosh and 40 others",
+     "ember":"the supreme arc darkening toward judgment: the Flood is coming","comments":[]}
+  ]
+}

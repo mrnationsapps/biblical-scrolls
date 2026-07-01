@@ -1,0 +1,71 @@
+{
+  "_note": "Beat 8 (Gen 9). PART 1 (P801-P806): the Rainbow Covenant, the joyful heart of the chapter; cast = the 8 flood survivors, so reactions are tiny/intimate. PART 2 (P807-P810): the darker coda, handled reverently and oblique (Noah's vineyard/the sons cover him; the curse of Canaan + blessing of Shem/Japheth in Noah's own words; the Watchman turns it toward mercy; Noah's death at 950). The sin stays off-screen (named, not depicted); the account centers on the sons' honor. Ham is referenced but silent throughout (scripture is silent on his response). Reactions swell on the memorial because the world has repopulated by Noah's death.",
+  "posts": [
+    {"id":"P801","beat":8,"author":"CHAR_009","kind":"post","time":"at first light","canon":"Canonical","weight":"Spine",
+     "body":"The first thing we did on dry ground, before we raised a single wall for ourselves, was build an altar to Him. We took from every clean animal and bird He had carried us through the flood to save, and we gave them back to the One who saved them. The smoke went up over a world washed clean and empty, and I have never prayed harder in my life. Thank You. Thank You for the door You shut, and the door You opened. We are still here. 🔥",
+     "reactions":{"heart":1,"pray":6,"amen":0,"sad":0,"like":0},"react_note":"the whole family",
+     "comments":[{"author":"CHAR_010","body":"Every animal alive on this earth now is one we fed by hand in the dark. Every bird. I keep looking at them and remembering. \"Thank You\" is right. It is the only prayer I have left in me.","time":"at first light"},
+                 {"author":"CHAR_011","body":"Nothing else gets built until He is thanked. Father had it right. We owe Him everything that still breathes.","time":"morning"}]},
+
+    {"id":"P802","beat":8,"author":"OUTLET_cosmic_herald","kind":"news","time":"morning","canon":"Canonical","weight":"Spine",
+     "body":"And the LORD smelled the pleasing aroma, and said in His heart: Never again will I curse the ground because of man, even though every inclination of his heart is bent from his youth. Never again will I strike down all the living, as I have done. As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night, will never cease.",
+     "reactions":{"heart":0,"pray":5,"amen":0,"sad":0,"like":0},"react_note":"Noah, Shem and 3 others",
+     "ember":"Gen 8:21-22: God resolves mercy even though the human heart is unchanged. The ground of all grace to come.","comments":[]},
+
+    {"id":"P803","beat":8,"author":"CHAR_011","kind":"post","time":"the third hour","canon":"Canonical","weight":"Spine",
+     "body":"He blessed us this morning and gave us our charge: be fruitful, multiply, fill the earth again. Eight of us, and a whole empty world to fill. But He added something the old world never had. He said a human life is a sacred thing now, every single one, and He Himself will hold us to account for it, because man is made in His own image. The world that just drowned was a world drunk on blood. He is telling us plainly: this one is not to be. We carry His image. We do not spill it.",
+     "reactions":{"heart":2,"pray":4,"amen":0,"sad":0,"like":0},"react_note":"Noah, Japheth and 4 others",
+     "highlight":"human life declared sacred, grounded in the image of God (Gen 9:6)",
+     "ember":"a new moral order answering the violence that doomed the old world; the worth of a person rooted in the imago Dei","comments":[]},
+
+    {"id":"P804","beat":8,"author":"CHAR_009","kind":"post","time":"the ninth hour","canon":"Canonical","weight":"Spine",
+     "body":"It rained today. The first rain since the flood, and I will not pretend my heart did not seize when the first drops fell. My children froze where they stood. We have all seen now what water can do. But then He set a sign in the sky. A bow, every color there is, bending clear over the whole earth. And He spoke a covenant, not only to me, but to my sons, and to every living creature, and to every generation still coming: never again will the waters become a flood to destroy all flesh. He said, when I bring clouds over the earth and the bow appears, I will see it and remember. He has hung up His bow, the warrior's bow, and turned it away from us, up toward the heavens. The rain is only rain now. 🌈",
+     "reactions":{"heart":4,"pray":3,"amen":0,"sad":0,"like":0},"react_note":"the whole family",
+     "highlight":"the covenant of the rainbow: God's promise never again to flood the earth (Gen 9:8-17)",
+     "ember":"the war-bow hung in the sky and pointed away from man = the sign of mercy; God 'remembers'; the first named covenant, pointing to every covenant after it",
+     "comments":[{"author":"CHAR_013","body":"We all flinched when the first drop hit. Eight grown people, flinching at a little rain. And then that bow came up over the hills and not one of us could get a word out. We just stood in the wet grass and wept and laughed at the very same time.","time":"the ninth hour"},
+                 {"author":"CHAR_010","body":"I have watched a great many skies in my long years. I have never once seen Him write His own name across one. 🌈","time":"the ninth hour"},
+                 {"author":"CHAR_012","body":"I am going to tell my children about today. And their children after them. \"There was a rain, and we were afraid, and then God hung a promise in the sky.\" Every time it rains now. Forever.","time":"as the first stars appeared"}]},
+
+    {"id":"P805","beat":8,"author":"CHAR_029","kind":"post","time":"as the first stars appeared","canon":"Inferred","weight":"Texture",
+     "body":"He told us to fill the earth. Sit with that for a moment. Every person who will ever live, every nation, every face in every crowd that ever gathers anywhere, will trace all the way back to this one small circle of eight around a single fire. We are the whole future of the world. I used to think that was a terrifying thing to have to carry. Tonight, standing under that bow, it feels like the greatest gift anyone has ever been handed. So we begin again. 🤍",
+     "reactions":{"heart":5,"pray":1,"amen":0,"sad":0,"like":0},"react_note":"Noah's Wife, Ham's Wife and 3 others",
+     "ember":"echo of Eve, 'mother of all living'; the whole human family descends from Noah's three sons","comments":[]},
+
+    {"id":"P806","beat":8,"author":"OUTLET_watchman","kind":"news","time":"nightfall","canon":"Inferred","weight":"Spine",
+     "body":"A bow in the clouds. Mark it well. He did not promise that the heart of man would change. He promised the opposite, plainly, with His own mouth. He promised only that He would hold back His hand anyway. That is not the end of the long story of judgment and mercy. That is the very first page of it. And keep your eye on the middle son's line, the line of Shem. Every promise He has made so far runs downstream. Watch the water. 👁️",
+     "reactions":{"heart":0,"pray":3,"amen":0,"sad":0,"like":0},"react_note":"Noah and 2 others",
+     "ember":"the covenant as page one of the redemption story; the line of Shem to Abram to the promised Seed; mercy held out over an unchanged heart","comments":[]},
+
+    {"id":"P807","beat":8,"author":"CHAR_011","kind":"post","time":"the cool of the day","canon":"Canonical","weight":"Spine",
+     "body":"My father is the most righteous man I have ever known. He is also only a man, and today I saw both of those things at once. He planted a vineyard, the first fruit of this new ground, and its wine overcame him. He lay in his tent, uncovered and unaware. One of us saw him so and did not look away as a son should. Japheth and I took a cloak between us, laid it across our shoulders, and walked in backward, our faces turned away, so we would never see our own father's shame. We covered him. Then we sat outside his tent and wept. He carried the whole world across the water. The least his sons could do was carry a cloak, and hold their tongues.",
+     "reactions":{"heart":2,"pray":4,"amen":0,"sad":3,"like":0},"react_note":"the family",
+     "highlight":"Shem and Japheth cover their father, walking in backward (Gen 9:20-23)",
+     "ember":"honoring a father even in his failure; reverence set against dishonor, the fault-line that runs into the next verses",
+     "comments":[{"author":"CHAR_013","body":"We walked backward the whole way, you and I, so neither of us would ever carry that picture of him. I am glad we did. I want to remember him on the deck in the rain, not this.","time":"the cool of the day"},
+                 {"author":"CHAR_010","body":"He wept when he woke and understood. So did I. Not one of us is past falling, not even the man God kept. Thank you both for how you carried yourselves today.","time":"as the first stars appeared"}]},
+
+    {"id":"P808","beat":8,"author":"CHAR_009","kind":"post","time":"at first light","canon":"Canonical","weight":"Spine",
+     "body":"I woke and I knew what had been done, and by whom. I will not pretend away the grief of it. But the LORD set words in my mouth this morning, and I speak them as He gave them, over my sons and the peoples who will come from them. Cursed be Canaan; the lowest of servants he will be to his brothers. Blessed be the LORD, the God of Shem, and may Canaan serve him. May God enlarge Japheth, and may he dwell in the tents of Shem. What rises in a house does not stay in one tent. It runs down through the generations. I have lived long enough now to have seen that more than once.",
+     "reactions":{"heart":0,"pray":5,"amen":0,"sad":3,"like":0},"react_note":"the family",
+     "highlight":"Noah's curse on Canaan and blessing on Shem and Japheth (Gen 9:24-27)",
+     "ember":"the curse falls on Canaan's line (the later Canaanite nations), not on any people's race; the promise runs down the line of Shem; Japheth in Shem's tents foreshadows the Gentiles brought in",
+     "note":"the curse is on Canaan's LINE, tied to the later Canaanite nations, not any race or skin; a text long and wrongly abused, framed here with care",
+     "comments":[]},
+
+    {"id":"P809","beat":8,"author":"OUTLET_watchman","kind":"news","time":"as the sun set","canon":"Inferred","weight":"Spine",
+     "body":"Mark the three lines that now fill the earth. From Ham comes Canaan, and from Canaan a people whose way will one day set itself against the promise. From Shem comes a tent the LORD Himself is named over, and the promise runs down that line. And hear what is easy to miss: Japheth is given a place in the tents of Shem. The far-off peoples are not shut out. A day is coming when they too will dwell where the God of Shem is worshiped. Curse and blessing were both spoken under this sky today. Keep your eye on the tent of Shem. 👁️",
+     "reactions":{"heart":0,"pray":3,"amen":0,"sad":0,"like":0},"react_note":"Noah and 2 others",
+     "ember":"the line of Shem to Abram to the promised Seed; Japheth in the tents of Shem = the Gentiles gathered into the covenant blessing (Gen 9:27)","comments":[]},
+
+    {"id":"P810","beat":8,"author":"CHAR_011","kind":"memorial","time":"as the lamps were lit","canon":"Canonical","weight":"Spine",
+     "memorial_for":"Noah, who walked with God and carried the world through the flood",
+     "tags":["CHAR_009"],
+     "body":"My father Noah has died. He was nine hundred and fifty years old, and lived three hundred and fifty of those years after the waters went down, long enough to see his sons' sons fill the valleys with tents and noise and life again. He walked with God when no one else on earth would. He built when the sky was clear and the whole world laughed at him. He shut the door when God told him to, and he wept for everyone outside it. The ground you and I stand on is the world he was faithful enough to carry across the water. Rest now, father. You of all men have earned it.",
+     "reactions":{"heart":9,"pray":18,"amen":0,"sad":14,"like":0},"react_note":"Japheth, Shem's Wife and many others",
+     "highlight":"the death of Noah at 950 years (Gen 9:28-29)",
+     "ember":"the ark as a picture of salvation through judgment; the line of Shem carries on toward the promise",
+     "comments":[{"author":"CHAR_013","body":"He taught me to work wood. Every straight joint I ever cut, I cut because his hand was once over mine. I do not know the world without him in it. I will have to learn it.","time":"as the lamps were lit"},
+                 {"author":"CHAR_010","body":"Seven hundred years his wife, through the building and the mocking and the rain and the long quiet after. I would do all of it again. Go well, my love.","time":"the first watch of the night"}]}
+  ]
+}

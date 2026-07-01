@@ -1,0 +1,127 @@
+{
+  "posts": [
+    {"id":"P501","beat":5,"author":"OUTLET_cosmic_herald","kind":"news","time":"nightfall","canon":"Canonical","weight":"Spine",
+     "body":"The LORD saw how great the wickedness of man had become on the earth, and that every inclination of the thoughts of his heart was only evil, all the time. Not sometimes. Not mostly. Only evil, all the time.",
+     "reactions":{"heart":0,"pray":40,"amen":0,"sad":70,"like":0},"react_note":"Noah, Enosh and 90 others","comments":[]},
+
+    {"id":"P502","beat":5,"author":"OUTLET_cosmic_herald","kind":"news","time":"after dark","canon":"Canonical","weight":"Texture",
+     "body":"In those days the old boundaries blurred. There were mighty ones on the earth, warriors of renown, men whose names filled every song. The world had never been so strong. It had never been so far from Him.",
+     "reactions":{"heart":0,"pray":12,"amen":0,"sad":20,"like":0},"react_note":"Renan the Elder and 40 others",
+     "ember":"the strange darkness of Gen 6:1-4, kept oblique","comments":[]},
+
+    {"id":"P503","beat":5,"author":"CHAR_661","kind":"post","time":"after dark","canon":"Inferred","weight":"Texture",
+     "body":"Best time in history to be alive, honestly. Nobody's keeping any rules that matter, take what you can carry, the strong eat first and the rest can pray about it. Those dusk-praying Seth types are adorable. The world belongs to whoever's bold enough to grab it.",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":15,"like":60},"react_note":"Mekel, Pell and 110 others",
+     "comments":[{"author":"CHAR_659","body":"I remember when men called on His name and meant it. Now my own grandchildren laugh at me for it. I have lived too long, into a world I no longer recognize.","time":"dusk"}]},
+
+    {"id":"P505","beat":5,"author":"OUTLET_cosmic_herald","kind":"news","time":"at dusk","canon":"Canonical","weight":"Spine",
+     "body":"And the LORD regretted that He had made man on the earth, and His heart was deeply grieved. Read that again slowly. The One who looked at it all and called it very good now grieves, to His heart, that He made it at all.",
+     "reactions":{"heart":0,"pray":120,"amen":0,"sad":160,"like":0},"react_note":"Noah, Enosh and 200 others",
+     "highlight":"God grieves over the world He made","comments":[]},
+
+    {"id":"P507","beat":5,"author":"OUTLET_cosmic_herald","kind":"news","time":"at first light","canon":"Canonical","weight":"Spine",
+     "body":"The LORD said: I will wipe from the face of the earth the man I have created. But Noah. Noah found favor in the eyes of the LORD. The whole world tips on that one small word: but.",
+     "reactions":{"heart":40,"pray":110,"amen":0,"sad":30,"like":0},"react_note":"Noah, Shem and 140 others",
+     "highlight":"but Noah found favor","comments":[]},
+
+    {"id":"P508","beat":5,"author":"CHAR_009","kind":"post","time":"at dusk","canon":"Inferred","weight":"Spine",
+     "body":"I try to walk with Him the way grandfather Enoch did. The whole world thinks I'm strange. Maybe I am. But when everyone you know is running one way, and He is standing the other way, you have to choose a direction. I've chosen. I'll keep walking with Him whatever it ends up costing me.",
+     "reactions":{"heart":30,"pray":24,"amen":0,"sad":0,"like":0},"react_note":"Shem, Noah's Wife and 18 others",
+     "comments":[{"author":"CHAR_661","body":"\"Walks with God.\" Sure he does, friend. Sure he does. 😂","time":"midday"},
+                 {"author":"CHAR_658","body":"Don't listen to them, Noah. Some of us are still walking the same way you are. Quieter, but here.","time":"midday"}]},
+
+    {"id":"P601","beat":6,"author":"OUTLET_cosmic_herald","kind":"news","time":"that morning","canon":"Canonical","weight":"Spine",
+     "body":"God said to Noah: I am going to bring floodwaters on the earth. Make yourself an ark of gopher wood. This long, this wide, this high. A door in the side. Bring two of every living thing, and seven of the clean, and food for them all. And I will establish My covenant with you.",
+     "reactions":{"heart":0,"pray":50,"amen":0,"sad":0,"like":0},"react_note":"Noah and 30 others","comments":[]},
+
+    {"id":"P602","beat":6,"author":"CHAR_009","kind":"post","time":"this morning","canon":"Inferred","weight":"Spine",
+     "body":"He told me to build a boat. A boat. On dry ground, bigger than anything anyone has ever built, for a thing called a flood. We don't even have a word for water falling from the sky. I asked Him nothing. I argued nothing. I just started cutting gopher wood this morning. If He says it, I build it. That's the whole of my plan.",
+     "reactions":{"heart":26,"pray":18,"amen":0,"sad":0,"like":9},"react_note":"Noah's Wife, Shem and 20 others",
+     "format":"the ultimate obedience: build the impossible on His word alone",
+     "comments":[{"author":"CHAR_012","body":"Tell us where to cut, father. All three of us are with you.","time":"morning"},
+                 {"author":"CHAR_661","body":"A BOAT. In the DESERT. 😂😂 Oh this is going to be good. Bringing the whole city to watch.","time":"morning"}]},
+
+    {"id":"P603","beat":6,"author":"CHAR_657","kind":"post","time":"that afternoon","canon":"Inferred","weight":"Texture",
+     "body":"Went and carved my initials in the side of crazy Noah's boat for a laugh. He didn't even get angry. He just looked at me, sad as anything, and said 'there's still room, son.' Weird old man. ANYWAY. Who's coming to the festival tonight?",
+     "reactions":{"heart":0,"pray":6,"amen":0,"sad":20,"like":48},"react_note":"Naveh, Pell and 90 others","comments":[]},
+
+    {"id":"P604","beat":6,"author":"CHAR_010","kind":"post","time":"in the afternoon","canon":"Inferred","weight":"Texture",
+     "body":"People ask how I can stand beside a man the whole world is laughing at. Here's how. I have shared this man's table for centuries, and I have never once seen him afraid of being laughed at. Only ever afraid of disobeying Him. That is a rare and steady thing to be married to. Now pass me the pitch, we're sealing the lower deck.",
+     "reactions":{"heart":44,"pray":12,"amen":0,"sad":0,"like":0},"react_note":"Shem's Wife, Tirae and 33 others","comments":[]},
+
+    {"id":"P605","beat":6,"author":"CHAR_011","kind":"post","time":"midday","canon":"Inferred","weight":"Texture",
+     "body":"My hands are ruins. Another year of sawing and sealing, and the whole city still files past every day to laugh at the four mad men and their giant boat. But I have watched my father my whole life, and he has never once been wrong about Him. So I pick up the saw again. 🔨",
+     "reactions":{"heart":22,"pray":10,"amen":0,"sad":0,"like":0},"react_note":"Japheth, Noah and 14 others","comments":[]},
+
+    {"id":"P606","beat":6,"author":"CHAR_011","kind":"post","time":"this morning","canon":"Inferred","weight":"Spine",
+     "body":"We drove the last peg this morning. After all these years, it's done. Three decks, a single door, room enough for a whole world. We stepped back and looked up at this huge, impossible thing standing against the sky, and you know what the sky did? Stayed blue. Perfectly, cloudlessly blue. And down in the valley they are still laughing at us. The door is open. I keep praying that someone, anyone, walks through it before it's too late.",
+     "reactions":{"heart":12,"pray":40,"amen":0,"sad":0,"like":0},"react_note":"Noah, Noah's Wife and 30 others","comments":[]},
+
+    {"id":"P607","beat":6,"author":"CHAR_009","kind":"memorial","time":"as the sun set","canon":"Canonical","weight":"Spine",
+     "body":"Grandfather Methuselah has died. Nine hundred and sixty-nine years, the longest any man has ever walked this earth, and now the longest life is over. He held on so long, as if his very years were holding the door open for the rest of us. The door is closing now. I feel it. 🕊️",
+     "reactions":{"heart":0,"pray":40,"amen":0,"sad":80,"like":0},"react_note":"the faithful few",
+     "memorial_for":"Methuselah, the oldest man who ever lived","tags":["CHAR_008"],
+     "highlight":"the oldest tree falls (the Watchman's ember pays off)","comments":[]},
+
+    {"id":"P609","beat":6,"author":"OUTLET_watchman","kind":"news","time":"at nightfall","canon":"Inferred","weight":"Spine",
+     "body":"We told you, generations ago, to watch the old man. Methuselah is gone. Every warning that could be spoken has been spoken. The ark is finished. The door is open. There is nothing left now between this world and the water but a thin blue sky and a little more time. Get on the boat. We are begging you. Get on the boat. 👁️",
+     "reactions":{"heart":0,"pray":30,"amen":0,"sad":40,"like":0},"react_note":"Renan the Elder and 28 others","comments":[]},
+
+    {"id":"P701","beat":7,"author":"CHAR_657","kind":"post","time":"that evening","canon":"Inferred","weight":"Spine",
+     "body":"Went down to laugh at the boat one more time. But the animals are walking up the ramp by themselves. Lions strolling past lambs, not a snarl between them. Nobody is herding them. Nobody is calling them that I can see. And nobody is laughing today either. I carved my name in that boat as a joke, months ago. I keep thinking about that. I came home early.",
+     "reactions":{"heart":10,"pray":30,"amen":0,"sad":22,"like":0},"react_note":"Pell, Yannah and 40 others",
+     "comments":[{"author":"CHAR_658","body":"There's still room, Mekel. He told you himself. There is still room.","time":"that evening"}]},
+
+    {"id":"P702","beat":7,"author":"CHAR_009","kind":"post","time":"the last evening","canon":"Inferred","weight":"Spine",
+     "body":"We are aboard. All eight of us. My wife, my three sons, their three wives, and a whole world of living things breathing in the dark around us. I stood at the top of the ramp and called out to the valley one last time. Some looked away. One man waved up at me, grinning, like it was a festival. Then I pulled up the ramp. 🌧️",
+     "reactions":{"heart":8,"pray":6,"amen":0,"sad":4,"like":0},"react_note":"Noah's Wife, Shem and 5 others","comments":[]},
+
+    {"id":"P703","beat":7,"author":"OUTLET_cosmic_herald","kind":"news","time":"at midday","canon":"Canonical","weight":"Spine",
+     "body":"And they went into the ark, the eight of them, with every living kind, as God had commanded. And then the LORD shut him in. Not Noah. Noah did not close that door. The LORD shut the door. Everything that happens now is in His hands alone.",
+     "reactions":{"heart":0,"pray":8,"amen":0,"sad":0,"like":0},"react_note":"the eight aboard",
+     "highlight":"the LORD shut the door","comments":[]},
+
+    {"id":"P704","beat":7,"author":"OUTLET_cosmic_herald","kind":"news","time":"before dawn","canon":"Canonical","weight":"Spine",
+     "body":"On the seventeenth day of the second month, the fountains of the great deep burst open, and the floodgates of the heavens were opened. And it rained on the earth forty days and forty nights. The first rain the world had ever seen, and it did not stop.",
+     "reactions":{"heart":0,"pray":7,"amen":0,"sad":1,"like":0},"react_note":"the eight aboard","comments":[]},
+
+    {"id":"P705","beat":7,"author":"SILENCE","kind":"silence","time":"","canon":"","weight":"Spine","flood_day":true,
+     "body":"...and out across the city of Enoch, across the whole wide earth, the feeds go quiet. The mockers. The festivals. The songs of seventy-sevenfold vengeance. One by one by one, silent. The wind has the world to itself now.",
+     "reactions":{},"react_note":"§6.5: the judgment, conveyed by a world going silent. Referenced, never depicted.","comments":[]},
+
+    {"id":"P706","beat":7,"author":"CHAR_661","kind":"post","time":"the dead of night","canon":"Inferred","weight":"Spine",
+     "body":"ok it's actually raining. a lot. it's coming up under the doors. this isn't funny anymore, the water is, it's rising too fast, Noah was. Noah was RIGHT. he was right and we all. is anyone else seeing this, is anyone—",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"",
+     "highlight":"the mocker's last words (the grief of judgment, never gloated over)","comments":[]},
+
+    {"id":"P707","beat":7,"author":"CHAR_010","kind":"post","time":"the first night aboard","canon":"Inferred","weight":"Spine",
+     "body":"We can hear it through the wood. First the water. And then, after a while, not the water anymore. I am holding my sons' wives and none of us are speaking. My husband is on his knees against the wall. He was right, and being right has not made him glad. None of us are glad. We are only afloat, and alive, and listening to a whole world end. 🌧️",
+     "reactions":{"heart":4,"pray":7,"amen":0,"sad":7,"like":0},"react_note":"the eight aboard","comments":[]},
+
+    {"id":"P708","beat":7,"author":"OUTLET_cosmic_herald","kind":"news","time":"at midday","canon":"Canonical","weight":"Spine",
+     "body":"The waters rose and rose until they covered even the mountains. Every living thing that moved on the land perished. Only Noah was left, and those with him in the ark. For one hundred and fifty days, the water held the whole world in its hand.",
+     "reactions":{"heart":0,"pray":8,"amen":0,"sad":8,"like":0},"react_note":"the eight aboard","comments":[]},
+
+    {"id":"P709","beat":7,"author":"OUTLET_cosmic_herald","kind":"news","time":"at first light","canon":"Canonical","weight":"Spine",
+     "body":"But God remembered Noah, and every living thing with him in the ark. And God sent a wind to sweep over the earth, and the waters began, slowly, to go down.",
+     "reactions":{"heart":8,"pray":8,"amen":0,"sad":0,"like":0},"react_note":"the eight aboard",
+     "highlight":"God remembered Noah","ember":"mercy turns the tide; the promise survives in the ark","comments":[]},
+
+    {"id":"P710","beat":7,"author":"CHAR_009","kind":"post","time":"that evening","canon":"Canonical","weight":"Spine",
+     "body":"I sent the raven first. It just flew, back and forth, restless, never landing. Then I sent a dove. The first time she came back with nothing, and I held her all night. Today I sent her again. And this evening she came back with a fresh olive leaf in her beak. There is a tree out there. A living, green, growing tree. I wept like a child. There is a world again. 🕊️🌿",
+     "reactions":{"heart":8,"pray":7,"amen":0,"sad":0,"like":0},"react_note":"Noah's Wife, Shem and 5 others",
+     "highlight":"the olive leaf: the first green of a new world","comments":[
+        {"author":"CHAR_011","body":"You held that dove all night, father. We heard you praying over a bird. And look. Look what she brought back.","time":"evening"}]},
+
+    {"id":"P711","beat":7,"author":"CHAR_009","kind":"post","time":"the first morning ashore","canon":"Inferred","weight":"Spine",
+     "body":"We stepped out onto the new earth this morning. It is so quiet. So washed-clean and empty and waiting. My sons wanted to talk, to plan, to count what we have left. I couldn't, not yet. The first thing I did, before anything else, was pile up stones and build an altar. I had no words ready. I just needed Him to know, from the very first breath of this new world: thank You. Thank You.",
+     "reactions":{"heart":7,"pray":8,"amen":0,"sad":0,"like":0},"react_note":"Noah's Wife, Shem and 5 others",
+     "highlight":"a new world begins with worship",
+     "comments":[{"author":"CHAR_010","body":"I watched you carry those stones one at a time up the wet hill. You didn't say a word the whole way. You didn't have to.","time":"that morning"}]},
+
+    {"id":"P712","beat":7,"author":"OUTLET_watchman","kind":"news","time":"at sunrise","canon":"Inferred","weight":"Spine",
+     "body":"Eight souls and a boat full of life step out onto a clean, empty earth. And up in the clearing sky above them, something is beginning to form, something with color, something the world has never seen before. Watch the sky tomorrow. He is about to make a promise. 👁️🌈",
+     "reactions":{"heart":8,"pray":6,"amen":0,"sad":0,"like":0},"react_note":"the eight aboard",
+     "ember":"toward Beat 8: the rainbow covenant","comments":[]}
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "outlets": {
+    "OUTLET_cosmic_herald": {"name": "The Cosmic Herald", "icon": "🌌", "tagline": "All Creation, As It Happens"},
+    "OUTLET_vine_fig":      {"name": "The Vine & Fig",    "icon": "🌾", "tagline": "Living well in the world He made"},
+    "OUTLET_watchman":      {"name": "The Watchman's Report", "icon": "👁️", "tagline": "We see what's coming"},
+    "OUTLET_daily_dust":    {"name": "The Daily Dust",    "icon": "🏺", "tagline": "News from the ground up"}
+  },
+  "posts": [
+    {"id":"P001","beat":1,"author":"OUTLET_cosmic_herald","kind":"news","time":"the first hour","canon":"Canonical","weight":"Spine",
+     "body":"BREAKING: LIGHT. In the beginning, God created the heavens and the earth. And where there was only darkness over the deep, He said, \"Let there be light.\" And there was light. Evening and morning, the first day. ✨",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"",
+     "comments":[{"author":"CHAR_002","body":"Adam showed me the very beginning today. Before either of us drew a breath, there was already light. Tonight, out here in the dark, I'm holding onto that.","time":"later"}]},
+
+    {"id":"P002","beat":1,"author":"OUTLET_cosmic_herald","kind":"news","time":"the sixth hour","canon":"Canonical","weight":"Spine",
+     "body":"Day Three: the waters gathered and dry land appeared. He called them Earth and Seas. And the land burst open with grass, plants, and fruit trees of every kind. \"And God saw that it was good.\" 🌱🌳",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"","comments":[]},
+
+    {"id":"P003","beat":1,"author":"OUTLET_vine_fig","kind":"news","time":"the ninth hour","canon":"Inferred","weight":"Texture",
+     "body":"Fruit trees?? Of EVERY kind?? 🍇🍎🫒 We don't technically know who's going to eat all this yet but rest assured we are READY and taking notes. Big things coming for mealtimes.",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"","comments":[]},
+
+    {"id":"P004","beat":1,"author":"OUTLET_cosmic_herald","kind":"news","time":"evening","canon":"Canonical","weight":"Spine",
+     "body":"Day Four: lights in the vault of heaven. The greater light to govern the day, the lesser to govern the night, and the stars also. For signs, for seasons, for days and years. ☀️🌙✨",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"","comments":[]},
+
+    {"id":"P005","beat":1,"author":"OUTLET_watchman","kind":"news","time":"evening","canon":"Inferred","weight":"Texture",
+     "body":"Among the countless stars He hung tonight... who can say what one of them might one day be sent to announce? We'll be watching the sky. 👁️✨",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"","ember":"stars to the star over Bethlehem","comments":[]},
+
+    {"id":"P006","beat":1,"author":"OUTLET_cosmic_herald","kind":"news","time":"midday","canon":"Canonical","weight":"Spine",
+     "body":"\"Let Us make man in Our image.\" So God created mankind in His own image, male and female He created them, and gave them dominion over all the earth. \"And behold, it was very good.\" 🦁🐂👑",
+     "reactions":{"heart":0,"pray":1,"amen":0,"sad":0,"like":0},"react_note":"Adam",
+     "comments":[{"author":"CHAR_001","body":"...He's talking about me. About all of us. I was a handful of dust on the ground this morning, and then He knelt down and breathed into it, and I sat up looking straight into the face of the One who wanted me to be. Made in His image. I don't understand it and I don't think I ever will. I just know I have the whole rest of my life to try to live like it's true. 🤍","time":"as the sun set"}]},
+
+    {"id":"P007","beat":1,"author":"CHAR_001","kind":"post","time":"as the sun set","canon":"Inferred","weight":"Spine",
+     "body":"...I'm here. I don't have the words yet. I'm only moments old. But there is breath in me, and a garden in front of me, and One who knelt in the dust and called me out of it. So. I suppose I get to name it all. 🌿",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"",
+     "highlight":"the first human voice in the app",
+     "comments":[{"author":"CHAR_002","body":"I read this back later. \"The only one of my kind.\" You weren't alone for very long though, were you. 🤍","time":"later"},
+                 {"author":"CHAR_001","body":"Not one breath longer than I had to be.","time":"later"}]},
+
+    {"id":"P008","beat":1,"author":"CHAR_001","kind":"post","time":"at first light","canon":"Inferred","weight":"Texture",
+     "body":"Everything's done. And today, we rest. I didn't know you were allowed to just be. No naming, no tending. Just walking with Him in the cool of a finished world. So this is peace. I could get used to this. 🌅",
+     "reactions":{"heart":1,"pray":1,"amen":0,"sad":0,"like":0},"react_note":"Eve",
+     "comments":[{"author":"CHAR_002","body":"First rest day and you're already napping under the fig tree. Some things never change.","time":"evening"},
+                 {"author":"CHAR_001","body":"It's a HOLY nap, Eve. He blessed the day. I'm just observing it. Thoroughly.","time":"evening"}]},
+
+    {"id":"P101","beat":2,"author":"CHAR_001","kind":"post","time":"the first hour","canon":"Inferred","weight":"Spine",
+     "body":"He has given me a whole garden in the east, rivers running through it, every kind of tree heavy with fruit. Two trees stand in the middle. One He calls the Tree of Life. The other He told me plainly to leave alone: the day you eat from it, you will surely die. One rule, in all of this abundance. Honestly, it seems more than fair to me.",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"","comments":[]},
+
+    {"id":"P102","beat":2,"author":"CHAR_001","kind":"post","time":"the sixth hour","canon":"Inferred","weight":"Spine",
+     "body":"He said it was not good for me to be alone. So He put me into a deep sleep, and when I woke, there she was. Bone of my bones, flesh of my flesh. I have a name ready for every creature that walks or swims or flies, and when I saw her I could barely get a word out. Woman. The two of us are one now. I was not made to be alone, and now I never will be again. 🤍",
+     "reactions":{"heart":1,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"Eve",
+     "highlight":"the woman is made, and the first conversation between two human beings",
+     "comments":[{"author":"CHAR_002","body":"...Oh. So this is what it is, to open your eyes and already be loved. The first face I ever saw was yours, lighting up like a sunrise. You said \"at last,\" like you'd waited your whole life for me. 🌸 I think I'm home.","time":"the sixth hour"},
+                 {"author":"CHAR_001","body":"At last. 🤍","time":"the sixth hour"},
+                 {"author":"CHAR_002","body":"Your \"whole life,\" Adam. Your whole life was, what, a single afternoon?","time":"the sixth hour"},
+                 {"author":"CHAR_001","body":"Longest afternoon of my life. 😌","time":"the sixth hour"},
+                 {"author":"CHAR_002","body":"Smooth. Did you practice that on the animals?","time":"the seventh hour"},
+                 {"author":"CHAR_001","body":"The hippopotamus was a tough crowd, honestly.","time":"the seventh hour"}]},
+
+    {"id":"P104","beat":2,"author":"CHAR_002","kind":"post","time":"the ninth hour","canon":"Inferred","weight":"Texture",
+     "body":"Spent the whole golden afternoon walking the garden, learning the names Adam gave everything. This one he's VERY proud of, \"hippopotamus.\" 😂 Nowhere to be, nothing to fear. I could live a thousand years like this. 🤍",
+     "reactions":{"heart":1,"pray":1,"amen":0,"sad":0,"like":0},"react_note":"Adam",
+     "comments":[{"author":"CHAR_001","body":"You laugh now, but in a thousand years you'll still be saying it wrong. It's hip-po-POT-amus.","time":"the ninth hour"},
+                 {"author":"CHAR_002","body":"I will simply call it \"the big river one\" and we will both know what I mean. 🦛","time":"the ninth hour"},
+                 {"author":"CHAR_001","body":"...that's actually better. Don't tell anyone I said that.","time":"the ninth hour"}]},
+
+    {"id":"P105","beat":2,"author":"CHAR_002","kind":"post","time":"midday","canon":"Canonical","weight":"Spine",
+     "body":"...something by the tree just spoke to me. Clever, smooth. \"Did God really say you must not eat from ANY tree?\" I said no, only the one. And it said, \"You will not surely die. Your eyes will be opened, and you'll be like God.\" And now I'm just... looking at it. The fruit is beautiful. And to be wise? 🤔 ...should I?",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"",
+     "format":"DILEMMA (the serpent is quoted but has no account, §3.1)","highlight":"the first dilemma post",
+     "comments":[{"author":"CHAR_001","body":"...I mean. It's just the one tree. How bad could it really be?","time":"a moment later"}]},
+
+    {"id":"P106","beat":2,"author":"CHAR_002","kind":"post","time":"the tenth hour","canon":"Inferred","weight":"Spine",
+     "body":"...I ate it. I gave some to Adam, and he ate too. And our eyes ARE open, but not the way I thought. 🙈 Everything looks exposed. Wrong. We're sewing fig leaves. We're hiding. What have we done.",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":1,"like":0},"react_note":"Adam",
+     "comments":[{"author":"CHAR_001","body":"I was right there. I should have said something. I should have said no, for both of us.","time":"the tenth hour"}]},
+
+    {"id":"P107","beat":2,"author":"CHAR_002","kind":"post","time":"the cool of the day","canon":"Inferred","weight":"Spine",
+     "body":"We heard Him in the garden this evening, walking in the cool of the day the way He always does. Every other evening we ran to meet Him. Tonight we hid in the trees, because for the first time in our lives we had something to hide. And still He called for us, so gently it broke my heart. \"Where are you?\" He knew exactly where we were. I think He only wanted us to come out and say it ourselves.",
+     "reactions":{"heart":0,"pray":2,"amen":0,"sad":1,"like":0},"react_note":"Adam","comments":[]},
+
+    {"id":"P108","beat":2,"author":"CHAR_001","kind":"post","time":"evening","canon":"Inferred","weight":"Spine",
+     "body":"I blamed her. She blamed the serpent. Neither of us said we were sorry. And He spoke what was true over each of us. To the serpent, the dust. To her, pain. To me, a ground gone hard and full of thorns because of what I did, sweat all my days. And the words I cannot stop hearing: dust you are, and to dust you will return. I am made of the very ground I now have to fight. One day it takes me back.",
+     "reactions":{"heart":0,"pray":2,"amen":0,"sad":2,"like":0},"react_note":"Eve","comments":[]},
+
+    {"id":"P109","beat":2,"author":"CHAR_002","kind":"post","time":"evening","canon":"Inferred","weight":"Spine",
+     "body":"And then, right in the middle of it, right in the middle of the curse, He made a promise I am going to hold for the rest of my life. He told the serpent that one of MY offspring, the seed of the woman, will one day crush its head, even as it strikes at his heel. The thing that ruined us will be undone, and it will come through a child of mine. So I am going to become a mother. And I am going to search every face that follows me for His. ✨",
+     "reactions":{"heart":0,"pray":2,"amen":0,"sad":0,"like":0},"react_note":"Adam",
+     "ember":"THE SUPREME EMBER, Gen 3:15, the seed of the woman to the Gospels","highlight":"the most important post in the app","comments":[]},
+
+    {"id":"P110","beat":2,"author":"CHAR_002","kind":"post","time":"as the first stars appeared","canon":"Inferred","weight":"Spine",
+     "body":"We had sewn fig leaves together to cover ourselves, and they were nothing, they came apart in our hands. So He did it Himself. He made us garments of skin, warm and lasting, and clothed us with His own hands before He sent us out. Something had to die to make them. The first blood, to cover the first shame. He sent us away from the garden, yes. But He would not let us go cold. 🤍",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":2,"like":0},"react_note":"Adam",
+     "ember":"the first death, an animal dies to cover them, foreshadowing atonement","comments":[]},
+
+    {"id":"P111","beat":2,"author":"OUTLET_cosmic_herald","kind":"news","time":"nightfall","canon":"Canonical","weight":"Spine",
+     "body":"So He sent them out of the garden of Eden, and set cherubim and a flaming sword, turning every way, to guard the way to the Tree of Life.",
+     "reactions":{"heart":0,"pray":2,"amen":0,"sad":2,"like":0},"react_note":"Adam and Eve","comments":[]},
+
+    {"id":"P112","beat":2,"author":"CHAR_001","kind":"post","time":"the first watch of the night","canon":"Inferred","weight":"Spine",
+     "body":"Our first night outside the garden. The ground is hard out here, and cold. Behind us, a sword of fire we'll never pass again. I did this. I had everything, and one \"no,\" and I... But Eve holds onto something He said. About a heel, and a crushed head. A promise, on the worst day of our lives. So we'll wait. We'll hope. 🌙",
+     "reactions":{"heart":0,"pray":1,"amen":0,"sad":1,"like":0},"react_note":"Eve",
+     "highlight":"the first sorrowful night in the app",
+     "comments":[{"author":"CHAR_002","body":"Stop carrying it all by yourself. I reached for that fruit too. We walk out of here together, or not at all.","time":"the first watch"},
+                 {"author":"CHAR_001","body":"Together then. Come closer, it's cold. We'll keep each other warm and watch for that promise of yours.","time":"the first watch"},
+                 {"author":"CHAR_002","body":"OUR promise. 🤍","time":"the first watch"}]},
+
+    {"id":"P113","beat":2,"author":"CHAR_002","kind":"post","time":"before the world sleeps","canon":"Inferred","weight":"Spine",
+     "body":"He named me again tonight. Not for what I cost him. \"Eve,\" he said. Mother of all the living. Even now. Even here. The LORD promised one of mine would crush the head of the thing that ruined us. So I will become a mother. And I will watch. 🌙🤍",
+     "reactions":{"heart":1,"pray":1,"amen":0,"sad":0,"like":0},"react_note":"Adam",
+     "comments":[{"author":"CHAR_001","body":"Mother of all the living. Of course that's what I called you. What else would you ever be.","time":"before dawn"}]},
+
+    {"id":"P201","beat":3,"author":"CHAR_004","kind":"post","time":"the third hour","canon":"Inferred","weight":"Texture",
+     "body":"Brought the LORD the firstborn of my flock this morning. The best lambs, the fat portions, the very first and finest. It was all His to begin with. And I felt it, His favor, like the sun on my face. 🐑🔥",
+     "reactions":{"heart":6,"pray":3,"amen":0,"sad":0,"like":0},"react_note":"Sareth, Lirah and 4 others",
+     "comments":[{"author":"CHAR_1375","body":"Best shepherd in the family and it isn't close. Proud to learn from you, brother. 🐑","time":"the third hour"},
+                 {"author":"CHAR_002","body":"My gentle boy. You make your mother proud every single day.","time":"the fourth hour"}]},
+
+    {"id":"P202","beat":3,"author":"CHAR_003","kind":"post","time":"the third hour","canon":"Inferred","weight":"Spine",
+     "body":"Brought the best of my harvest to the LORD. Grain, fruit, the work of my own two hands wrung out of this cursed ground. And He had no regard for it. None. But Abel's lambs? Favor. Always Abel. 😤",
+     "reactions":{"heart":0,"pray":2,"amen":0,"sad":1,"like":0},"react_note":"Tevin and 2 others",
+     "format":"grievance (the anger that will curdle)",
+     "comments":[{"author":"CHAR_1377","body":"Easy, brother. It was never grain versus lamb and you know it. It's the heart you bring it with.","time":"the third hour"},
+                 {"author":"CHAR_1374","body":"Cain. Please. Don't let this sit and fester. 🤍","time":"the fourth hour"},
+                 {"author":"CHAR_003","body":"You all keep saying that like it's so simple.","time":"the fourth hour"}]},
+
+    {"id":"P203","beat":3,"author":"OUTLET_cosmic_herald","kind":"news","time":"the fourth hour","canon":"Canonical","weight":"Spine",
+     "body":"The LORD spoke to Cain in his anger: \"Why are you angry? If you do well, will you not be accepted? But if you do not, sin is crouching at your door. Its desire is for you, but you must rule over it.\"",
+     "reactions":{"heart":0,"pray":4,"amen":0,"sad":0,"like":0},"react_note":"Adam, Eve and 2 others","comments":[]},
+
+    {"id":"P204","beat":3,"author":"CHAR_003","kind":"post","time":"the seventh hour","canon":"Inferred","weight":"Spine",
+     "body":"Going out to the field. Asked Abel to come with me. Just the two of us. Brother to brother. We need to talk.",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":0,"like":0},"react_note":"",
+     "comments":[{"author":"CHAR_1374","body":"Good. Talk it out. I'm glad. ❤️","time":"the seventh hour","aged_badly":true}]},
+
+    {"id":"P205","beat":3,"author":"SILENCE","kind":"silence","time":"","canon":"","weight":"Spine",
+     "body":"...and then Abel's feed goes quiet. No evening post. No lamb-count at dusk. Nothing. Not ever again.",
+     "reactions":{},"react_note":"","note":"§6.5: the first murder, conveyed by absence. Referenced, never depicted.","comments":[]},
+
+    {"id":"P206","beat":3,"author":"OUTLET_cosmic_herald","kind":"news","time":"the cool of the day","canon":"Canonical","weight":"Spine",
+     "body":"The LORD said to Cain, \"Where is your brother Abel?\" He answered, \"I do not know. Am I my brother's keeper?\" And the LORD said, \"What have you done? The voice of your brother's blood cries out to Me from the ground.\"",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":7,"like":0},"react_note":"Adam, Sareth and 5 others","comments":[]},
+
+    {"id":"P207","beat":3,"author":"CHAR_002","kind":"memorial","time":"evening","canon":"Inferred","weight":"Spine",
+     "body":"My son. My gentle Abel is gone. Out in the field. By his own brother's hand. I cannot even form the word. I have buried a child. The first grave the world has ever dug, and it is my baby's. 💔",
+     "reactions":{"heart":0,"pray":3,"amen":0,"sad":8,"like":0},"react_note":"the whole family",
+     "highlight":"the first memorial in the app","memorial_for":"Abel · keeper of sheep · the first of us to fall","tags":["CHAR_004"],
+     "comments":[{"author":"CHAR_1375","body":"He taught me everything I know about the flock. The gentlest hands I ever saw. Gone too soon, brother. I'll keep your lambs. 🐑💔","time":"evening"},
+                 {"author":"CHAR_1378","body":"I keep waiting for him to come over the hill at dusk like he always did. I can't make myself believe it.","time":"evening"},
+                 {"author":"CHAR_1376","body":"My little ones keep asking where Uncle Abel went. We didn't even HAVE a word for \"gone\" until today.","time":"nightfall"},
+                 {"author":"CHAR_001","body":"I let death into the world. And now it has taken one son and made a murderer of the other. Both my boys, in a single day. God forgive us all.","time":"nightfall"},
+                 {"author":"CHAR_1374","body":"I told him to go talk it out. I told him I was GLAD. I will never forgive myself for that comment. 😢","time":"nightfall","aged_badly":true}]},
+
+    {"id":"P208","beat":3,"author":"OUTLET_cosmic_herald","kind":"news","time":"nightfall","canon":"Canonical","weight":"Spine",
+     "body":"The LORD said to Cain, \"You are cursed from the ground. A fugitive and a wanderer you shall be.\" And Cain said, \"My punishment is greater than I can bear.\" So the LORD set a mark on Cain, that no one who found him would kill him, and he went out to the land of Nod, east of Eden.",
+     "reactions":{"heart":0,"pray":2,"amen":0,"sad":4,"like":0},"react_note":"Eve, Tevin and 2 others","comments":[]},
+
+    {"id":"P209","beat":3,"author":"CHAR_003","kind":"post","time":"the first watch of the night","canon":"Inferred","weight":"Spine",
+     "body":"Driven from the ground. Driven from His face. A wanderer the rest of my days. And any of my own brothers or kin who finds me out there could strike me down for what I've done. He marked me, so they won't. I'm going east, alone. Don't follow. I'm not the brother you knew.",
+     "reactions":{"heart":0,"pray":0,"amen":0,"sad":1,"like":0},"react_note":"Lirah",
+     "ember":"\"whoever finds me\" is Scripture's own proof (Gen 4:14) the world is populated",
+     "comments":[{"author":"CHAR_1374","body":"I'll come. Someone has to. You're still my brother, @CHAR_003. Even now. Even this.","time":"the first watch"},
+                 {"author":"CHAR_003","body":"You shouldn't. You really shouldn't.","time":"the first watch"},
+                 {"author":"CHAR_1374","body":"I know. I'm coming anyway. Pack light.","time":"the first watch"}]},
+
+    {"id":"P210","beat":3,"author":"CHAR_002","kind":"post","time":"before daybreak","canon":"Inferred","weight":"Spine",
+     "body":"Two sons lost in a single day. One to the grave, one to the wilderness. My heart is ash. But the LORD promised one of mine would crush the head of the thing that ruined us. It wasn't @CHAR_004. It wasn't @CHAR_003. So I will bear again. And I will keep watching. Especially tonight.",
+     "reactions":{"heart":0,"pray":4,"amen":0,"sad":2,"like":0},"react_note":"Adam, Sareth and 2 others",
+     "ember":"Gen 3:15 carried through grief, pivots to the coming Seth",
+     "comments":[{"author":"CHAR_001","body":"Then we hope together, like we said. You watch for the promise. I'll hold you while you do.","time":"before daybreak"}]},
+
+    {"id":"P211","beat":3,"author":"OUTLET_watchman","kind":"news","time":"nightfall","canon":"Inferred","weight":"Texture",
+     "body":"The line of Cain goes east, into cities, and songs, and the first swords. The line of the promise will come another way. Two rivers from one spring. Watch them both. 👁️",
+     "reactions":{"heart":0,"pray":1,"amen":0,"sad":0,"like":0},"react_note":"","comments":[]}
+  ]
+}
