@@ -5,16 +5,17 @@ body.night{--bg:#0b1020;--card:#141a2e;--ink:#e7e9ee;--mut:#9aa3b2;--line:#2b355
 *{box-sizing:border-box;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
 body{margin:0;background:var(--bg);color:var(--ink);transition:.4s}
 .top{position:sticky;top:0;z-index:9;background:var(--card);border-bottom:1px solid var(--line);
-  padding:8px 16px;display:flex;flex-direction:column;gap:3px;box-shadow:0 1px 4px rgba(0,0,0,.06);transition:transform .25s ease}
+  padding:8px 16px;display:flex;flex-direction:row;align-items:center;gap:12px;box-shadow:0 1px 4px rgba(0,0,0,.06);transition:transform .25s ease}
 .top.hidden{transform:translateY(-105%)}
-.toprow{display:flex;align-items:center;gap:12px}
+.topleft{display:flex;flex-direction:column;gap:3px;min-width:0;flex:1}
+.topright{display:flex;align-items:center;gap:12px;flex:none;margin-left:auto}
 .logo{font-size:20px;font-weight:800;color:var(--blue);cursor:pointer}
 .hdr{display:flex;align-items:baseline;gap:10px}.htext{min-width:0}.hdr .era{font-weight:700;font-size:14px;display:inline}.hdr .sub{font-size:12px;color:var(--mut);display:inline;margin-left:6px}
 .chip{font-size:12px;background:var(--bg);border:1px solid var(--line);border-radius:20px;padding:5px 11px;white-space:nowrap}
 .tog{font-size:12px;color:var(--mut);cursor:pointer;user-select:none;border:1px solid var(--line);border-radius:20px;padding:5px 10px}
 .tog.on{color:var(--blue);border-color:var(--blue)}
 .tog.danger{color:#e41e3f;border-color:#e8a0ad}
-.alive{font-size:12px;font-weight:600;color:#2fae5f;cursor:pointer;user-select:none;white-space:nowrap;margin-left:auto}
+.alive{font-size:12px;font-weight:600;color:#2fae5f;cursor:pointer;user-select:none;white-space:nowrap}
 .alive .dot{display:inline-block;animation:pulse 2s infinite}
 .alive.paused{color:var(--mut)}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.2}}
@@ -115,10 +116,11 @@ body.night .enote{background:#2a2410;border-color:#5a4a18;color:#e8d9a0}
 .toc-ct{font-size:11px;color:var(--mut);white-space:nowrap}
 </style><link rel="manifest" href="manifest.json"><meta name="theme-color" content="#1877f2"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Biblical Scrolls"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="icon" type="image/png" href="favicon-32.png"></head><body>
 <div class="top">
-  <div class="toprow"><div class="logo" onclick="goFeed()">📜 Biblical Scrolls</div>
+  <div class="topleft"><div class="logo" onclick="goFeed()">📜 Biblical Scrolls</div>
+    <div class="hdr"><div class="htext"><div class="era" id="era">…</div><div class="sub" id="sub"></div></div></div></div>
+  <div class="topright">
     <div class="alive" id="alive" onclick="togglePause()" title="the world is alive — tap to pause"><span class="dot">●</span> live</div>
-    <div class="bell" id="bell" onclick="toggleNotifs()">🔔<span class="ncount" id="ncount"></span></div></div>
-  <div class="hdr"><div class="htext"><div class="era" id="era">…</div><div class="sub" id="sub"></div></div></div></div>
+    <div class="bell" id="bell" onclick="toggleNotifs()">🔔<span class="ncount" id="ncount"></span></div></div></div>
 <div class="npanel" id="npanel"></div>
 <div class="toc" id="tocpanel"></div>
 <div class="wrap" id="wrap"></div>

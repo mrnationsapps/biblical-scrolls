@@ -1,4 +1,4 @@
-const CACHE='biblical-scrolls-v5';
+const CACHE='biblical-scrolls-v6';
 const SHELL=['.','index.html','manifest.json','api/feed.json','icon-192.png','icon-512.png','apple-touch-icon.png','favicon-32.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL).catch(()=>{})).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.map(k=>k!==CACHE?caches.delete(k):null))).then(()=>self.clients.claim()));});
