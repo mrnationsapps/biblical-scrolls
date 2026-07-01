@@ -515,7 +515,7 @@ function pymkCard(){
 function renderFeed(){const w=document.getElementById('wrap');
   const _cb=currentBeat();const _bm=(DATA.beats||[]).find(x=>x.beat===_cb)||{};   // "where in the Bible am I" — updates as the story moves
   document.getElementById('era').textContent=_bm.title||DATA.era_header||'Genesis';
-  document.getElementById('sub').textContent=_bm.ref?'| '+_bm.ref:'';
+  document.getElementById('sub').textContent=_bm.ref?'· '+_bm.ref:'';
   let html='';
   html+=pymkCard();
   const vis=feedVisible();let maxday=0;vis.forEach(p=>{if(p.release_day>maxday)maxday=p.release_day;});
@@ -529,7 +529,7 @@ function renderFeed(){const w=document.getElementById('wrap');
   w.innerHTML=html;}
 function renderProfile(){const w=document.getElementById('wrap');const P=PROFILE,a=P.char;
   const conn=isConnected(a),pend=(a.type!=='outlet'&&charStatus(a.id)==='pending');
-  document.getElementById('era').textContent=a.name;document.getElementById('sub').textContent=a.type==='outlet'?'| Page':'| Profile';
+  document.getElementById('era').textContent=a.name;document.getElementById('sub').textContent=a.type==='outlet'?'· Page':'· Profile';
   const cov=`linear-gradient(120deg,hsl(${hue(a.name)},45%,46%),hsl(${(hue(a.name)+45)%360},45%,34%))`;
   const place=a.city||a.hometown||'';
   const sub=a.type==='outlet'?a.tagline:[a.work,place,a.faction].filter(Boolean).join(' · ');
