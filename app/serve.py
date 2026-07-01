@@ -220,7 +220,7 @@ body{margin:0;background:var(--bg);color:var(--ink);transition:.4s}
 .top.hidden{transform:translateY(-105%)}
 .toprow{display:flex;align-items:center;gap:12px}
 .logo{font-size:20px;font-weight:800;color:var(--blue);cursor:pointer}
-.hdr{display:flex;align-items:center;gap:10px}.htext{min-width:0}.hdr .era{font-weight:700;font-size:14px}.hdr .sub{font-size:12px;color:var(--mut)}
+.hdr{display:flex;align-items:baseline;gap:10px}.htext{min-width:0}.hdr .era{font-weight:700;font-size:14px;display:inline}.hdr .sub{font-size:12px;color:var(--mut);display:inline;margin-left:6px}
 .chip{font-size:12px;background:var(--bg);border:1px solid var(--line);border-radius:20px;padding:5px 11px;white-space:nowrap}
 .tog{font-size:12px;color:var(--mut);cursor:pointer;user-select:none;border:1px solid var(--line);border-radius:20px;padding:5px 10px}
 .tog.on{color:var(--blue);border-color:var(--blue)}
@@ -515,7 +515,7 @@ function pymkCard(){
 function renderFeed(){const w=document.getElementById('wrap');
   const _cb=currentBeat();const _bm=(DATA.beats||[]).find(x=>x.beat===_cb)||{};   // "where in the Bible am I" — updates as the story moves
   document.getElementById('era').textContent=_bm.title||DATA.era_header||'Genesis';
-  document.getElementById('sub').textContent=_bm.ref||'';
+  document.getElementById('sub').textContent=_bm.ref?'| '+_bm.ref:'';
   let html='';
   html+=pymkCard();
   const vis=feedVisible();let maxday=0;vis.forEach(p=>{if(p.release_day>maxday)maxday=p.release_day;});
@@ -529,7 +529,7 @@ function renderFeed(){const w=document.getElementById('wrap');
   w.innerHTML=html;}
 function renderProfile(){const w=document.getElementById('wrap');const P=PROFILE,a=P.char;
   const conn=isConnected(a),pend=(a.type!=='outlet'&&charStatus(a.id)==='pending');
-  document.getElementById('era').textContent=a.name;document.getElementById('sub').textContent=a.type==='outlet'?'Page':'Profile';
+  document.getElementById('era').textContent=a.name;document.getElementById('sub').textContent=a.type==='outlet'?'| Page':'| Profile';
   const cov=`linear-gradient(120deg,hsl(${hue(a.name)},45%,46%),hsl(${(hue(a.name)+45)%360},45%,34%))`;
   const place=a.city||a.hometown||'';
   const sub=a.type==='outlet'?a.tagline:[a.work,place,a.faction].filter(Boolean).join(' · ');
